@@ -1,0 +1,13 @@
+diff --git a/crates/launcher-host/src/lifecycle/update.rs b/crates/launcher-host/src/lifecycle/update.rs
+--- a/crates/launcher-host/src/lifecycle/update.rs
++++ b/crates/launcher-host/src/lifecycle/update.rs
+@@ -326,6 +326,8 @@ impl State {
+ /// Configures installed clients; stage and network checks begin after startup acknowledgement.
+ pub fn check_in_background(layout: &InstallLayout) {
+-    if !layout.is_installed() {
++    if !layout.is_installed()
++        || (cfg!(target_os = "linux") && std::env::var_os("FLATPAK_ID").is_some())
++    {
+         return;
+     }
+     let _ = LAYOUT.set(layout.clone());

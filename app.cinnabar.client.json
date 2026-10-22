@@ -1,0 +1,76 @@
+{
+    "app-id": "app.cinnabar.client",
+    "runtime": "org.freedesktop.Platform",
+    "runtime-version": "26.08",
+    "sdk": "org.freedesktop.Sdk",
+    "sdk-extensions": [
+        "org.freedesktop.Sdk.Extension.golang"
+    ],
+    "command": "cinnabar",
+    "rename-desktop-file": "cinnabar.desktop",
+    "rename-icon": "cinnabar",
+    "finish-args": [
+        "--device=dri",
+        "--device=input",
+        "--share=ipc",
+        "--share=network",
+        "--socket=wayland",
+        "--socket=fallback-x11",
+        "--socket=pulseaudio",
+        "--filesystem=/run/udev:ro"
+    ],
+    "modules": [
+        {
+            "name": "cinnabar",
+            "buildsystem": "simple",
+            "build-options": {
+                "append-path": "/run/build/cinnabar/toolchain/bin:/usr/lib/sdk/golang/bin",
+                "env": {
+                    "CARGO_HOME": "/run/build/cinnabar/cargo",
+                    "CARGO_NET_OFFLINE": "true",
+                    "CARGO_TARGET_DIR": "/run/build/cinnabar/target",
+                    "CARGO_BUILD_BUILD_DIR": "/run/build/cinnabar/target",
+                    "GOROOT": "/usr/lib/sdk/golang",
+                    "GOMODCACHE": "/run/build/cinnabar/go/pkg/mod",
+                    "GOCACHE": "/run/build/cinnabar/go-cache",
+                    "GOPROXY": "file:///run/build/cinnabar/go/pkg/mod/cache/download",
+                    "GOSUMDB": "off",
+                    "GOTOOLCHAIN": "local",
+                    "GOWORK": "off",
+                    "BINARIES": "/run/build/cinnabar/target/release",
+                    "ASSETC": "/run/build/cinnabar/target/release/assetc"
+                }
+            },
+            "build-commands": [
+                "for component in rustc rust-std cargo; do (cd build-tools/$component && ./install.sh --prefix=/run/build/cinnabar/toolchain --disable-ldconfig); done",
+                "CINNABAR_BUILD_COMMIT=$(git rev-parse HEAD) cargo build --offline --frozen --release --no-default-features $(awk '$2 != \"-\" {printf \"-p %s --bin %s \", $2, $1}' packaging/common/runtime-binaries.txt) -p asset-compiler --bin assetc",
+                "(cd core && go build -mod=readonly -trimpath -ldflags \"-s -w $(CINNABAR_BUILD_COMMIT=$(git rev-parse HEAD) bash ../packaging/common/core-ldflags.sh)\" -o /run/build/cinnabar/target/release/bedrock-core ./cmd/bedrock-core)",
+                "(cd tools/localserver && go build -mod=readonly -trimpath -ldflags '-s -w' -o /run/build/cinnabar/target/release/bedrock-local-server .)",
+                "bash install.sh"
+            ],
+            "sources": [
+                {
+                    "type": "git",
+                    "url": "https://github.com/cinnabar-mc/cinnabar.git",
+                    "tag": "v0.1.25",
+                    "commit": "c12d10a7c798163158c88477e7b7b6304a6c5b19"
+                },
+                "cargo-sources.json",
+                "go-sources.json",
+                "rust-toolchain-sources.json",
+                {
+                    "type": "patch",
+                    "path": "disable-native-updater.patch"
+                },
+                {
+                    "type": "file",
+                    "path": "app.cinnabar.client.metainfo.xml"
+                },
+                {
+                    "type": "file",
+                    "path": "install.sh"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2501 @@
+[
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/cloud.google.com/go/compute/metadata/@v/v0.3.0.info",
+        "sha256": "2731723b5dd5d978a0b95ccd04099ad01a94fd541aec428e775e62ccc51586a7",
+        "dest": "go/pkg/mod/cache/download/cloud.google.com/go/compute/metadata/@v",
+        "dest-filename": "v0.3.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/cloud.google.com/go/compute/metadata/@v/v0.3.0.mod",
+        "sha256": "66600c448d2b5c547706734890ed18189c8280b208d86b9af2ab0810d5b61d21",
+        "dest": "go/pkg/mod/cache/download/cloud.google.com/go/compute/metadata/@v",
+        "dest-filename": "v0.3.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/cloud.google.com/go/compute/metadata/@v/v0.3.0.zip",
+        "sha256": "c0ab79c30870c1aa9912fb0fdcb043e0044782825988e40f59401d227976b677",
+        "dest": "go/pkg/mod/cache/download/cloud.google.com/go/compute/metadata/@v",
+        "dest-filename": "v0.3.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/andreburgaud/crypt2go/@v/v1.8.0.info",
+        "sha256": "edb73c25f70b6961b079ebeb0723e99d28c971764f97f44e13dbe9c288ddd2da",
+        "dest": "go/pkg/mod/cache/download/github.com/andreburgaud/crypt2go/@v",
+        "dest-filename": "v1.8.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/andreburgaud/crypt2go/@v/v1.8.0.mod",
+        "sha256": "8e9c88c4d2df62e3f0a9adebe2b265a3010fe2cea6a4447a4f37d0d29335e200",
+        "dest": "go/pkg/mod/cache/download/github.com/andreburgaud/crypt2go/@v",
+        "dest-filename": "v1.8.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/andreburgaud/crypt2go/@v/v1.8.0.zip",
+        "sha256": "363d8c1beb67290e5fbc86ffb54be9438453f98880f22c4f4a1a5f48e9f0ac73",
+        "dest": "go/pkg/mod/cache/download/github.com/andreburgaud/crypt2go/@v",
+        "dest-filename": "v1.8.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/bedrock-mc/dragonfly/@v/v0.0.0-20261019182817-14a1c91693e7.info",
+        "sha256": "d78c9c76d4c18cc930270e37ec35cea146d315788a595c93a537e82bdfb2e7b4",
+        "dest": "go/pkg/mod/cache/download/github.com/bedrock-mc/dragonfly/@v",
+        "dest-filename": "v0.0.0-20261019182817-14a1c91693e7.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/bedrock-mc/dragonfly/@v/v0.0.0-20261019182817-14a1c91693e7.mod",
+        "sha256": "77fb3c688e8de2ff48b8ad97fa22a0bdd1182a64f9db3a19b02689eed106c5c8",
+        "dest": "go/pkg/mod/cache/download/github.com/bedrock-mc/dragonfly/@v",
+        "dest-filename": "v0.0.0-20261019182817-14a1c91693e7.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/bedrock-mc/dragonfly/@v/v0.0.0-20261019182817-14a1c91693e7.zip",
+        "sha256": "79a50631479ca177a77e15490328527cd57ef11c61b12e52e07aac241c4a09d9",
+        "dest": "go/pkg/mod/cache/download/github.com/bedrock-mc/dragonfly/@v",
+        "dest-filename": "v0.0.0-20261019182817-14a1c91693e7.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/bedrock-mc/vanilla-gen/@v/v0.0.0-20261007153212-e56215898732.info",
+        "sha256": "9590ab5ad7b6a9732f016e2824203e17d23a5eeafd4927d8eeeebbe7fe1bedca",
+        "dest": "go/pkg/mod/cache/download/github.com/bedrock-mc/vanilla-gen/@v",
+        "dest-filename": "v0.0.0-20261007153212-e56215898732.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/bedrock-mc/vanilla-gen/@v/v0.0.0-20261007153212-e56215898732.mod",
+        "sha256": "88e693889688119ab80ec2f2d10834fda2cf201666de5022e4aaed704dd22041",
+        "dest": "go/pkg/mod/cache/download/github.com/bedrock-mc/vanilla-gen/@v",
+        "dest-filename": "v0.0.0-20261007153212-e56215898732.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/bedrock-mc/vanilla-gen/@v/v0.0.0-20261007153212-e56215898732.zip",
+        "sha256": "f4fcf733d66ce9cd20c6970cacd640b372926cbfc352768726fa644901fdeaae",
+        "dest": "go/pkg/mod/cache/download/github.com/bedrock-mc/vanilla-gen/@v",
+        "dest-filename": "v0.0.0-20261007153212-e56215898732.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/brentp/intintmap/@v/v0.0.0-20251106190759-56907b1f8479.info",
+        "sha256": "afacae1635eff7f3af572300884f69cef0045da9337f26f2aeab25c0a7947b04",
+        "dest": "go/pkg/mod/cache/download/github.com/brentp/intintmap/@v",
+        "dest-filename": "v0.0.0-20251106190759-56907b1f8479.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/brentp/intintmap/@v/v0.0.0-20251106190759-56907b1f8479.mod",
+        "sha256": "bc28b2a1d1c92d0400d0fc7c3e4c0d2d916d5e8cec7d236e91a3548ed8a3a4dd",
+        "dest": "go/pkg/mod/cache/download/github.com/brentp/intintmap/@v",
+        "dest-filename": "v0.0.0-20251106190759-56907b1f8479.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/brentp/intintmap/@v/v0.0.0-20251106190759-56907b1f8479.zip",
+        "sha256": "dd7ca59a3248f0e6daa5b9363c5a29f7822c736f59587d0d90d8a2f0934ab98a",
+        "dest": "go/pkg/mod/cache/download/github.com/brentp/intintmap/@v",
+        "dest-filename": "v0.0.0-20251106190759-56907b1f8479.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cenkalti/backoff/v7/@v/v7.0.0.info",
+        "sha256": "ccaf824b4a1abe95613034d4837dd6a2c8e9cff1fdbe88c7e03fb088e19f3bad",
+        "dest": "go/pkg/mod/cache/download/github.com/cenkalti/backoff/v7/@v",
+        "dest-filename": "v7.0.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cenkalti/backoff/v7/@v/v7.0.0.mod",
+        "sha256": "42ba262e7357ae6c3b5c0c38a68bf93c1911ef7709ebd85b0375245393d06b48",
+        "dest": "go/pkg/mod/cache/download/github.com/cenkalti/backoff/v7/@v",
+        "dest-filename": "v7.0.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cenkalti/backoff/v7/@v/v7.0.0.zip",
+        "sha256": "48aecb16913c1082fade858fe49d535b0cb56728c02341518a3764691eff5c97",
+        "dest": "go/pkg/mod/cache/download/github.com/cenkalti/backoff/v7/@v",
+        "dest-filename": "v7.0.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cespare/xxhash/v2/@v/v2.3.0.info",
+        "sha256": "792cb948103ac737a87ad78d36f14e5a133bb1cb9c306d4a8d45f62ac9af9a12",
+        "dest": "go/pkg/mod/cache/download/github.com/cespare/xxhash/v2/@v",
+        "dest-filename": "v2.3.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cespare/xxhash/v2/@v/v2.3.0.mod",
+        "sha256": "a090f8eaaf59cc2adf163299ebefe797e1dca3f6add2c8e88a6a3b90ba538b02",
+        "dest": "go/pkg/mod/cache/download/github.com/cespare/xxhash/v2/@v",
+        "dest-filename": "v2.3.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cespare/xxhash/v2/@v/v2.3.0.zip",
+        "sha256": "145a26cdc7c49db566017b807c4989ee7f7ddeb569423e9cb99f995fac3621d3",
+        "dest": "go/pkg/mod/cache/download/github.com/cespare/xxhash/v2/@v",
+        "dest-filename": "v2.3.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cinnabar-mc/protocolgen/generated/data/@v/v0.0.0-20261019181927-1b7677ddec59.info",
+        "sha256": "33639e7732de1614799f23d812aee3a41e341643f8e446a57ef32f57db9a5ea8",
+        "dest": "go/pkg/mod/cache/download/github.com/cinnabar-mc/protocolgen/generated/data/@v",
+        "dest-filename": "v0.0.0-20261019181927-1b7677ddec59.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cinnabar-mc/protocolgen/generated/data/@v/v0.0.0-20261019181927-1b7677ddec59.mod",
+        "sha256": "6c497280cecbed2d89b46a390ff5642d671382171cc71524fb1b3bbfac2dc153",
+        "dest": "go/pkg/mod/cache/download/github.com/cinnabar-mc/protocolgen/generated/data/@v",
+        "dest-filename": "v0.0.0-20261019181927-1b7677ddec59.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/cinnabar-mc/protocolgen/generated/data/@v/v0.0.0-20261019181927-1b7677ddec59.zip",
+        "sha256": "41d5abb19d146d67cbf881ac5e1f1b26e6da8d95b5555f61aa38d969b5672613",
+        "dest": "go/pkg/mod/cache/download/github.com/cinnabar-mc/protocolgen/generated/data/@v",
+        "dest-filename": "v0.0.0-20261019181927-1b7677ddec59.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/coder/websocket/@v/v1.8.14.info",
+        "sha256": "91e615a4ddb45e9e8ad536760224e5987ad465350d98e8a837aecf4fd0f738fa",
+        "dest": "go/pkg/mod/cache/download/github.com/coder/websocket/@v",
+        "dest-filename": "v1.8.14.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/coder/websocket/@v/v1.8.14.mod",
+        "sha256": "0cab443e389cef98e63828bd7ce82224bf192732a18795581314766eb14ea275",
+        "dest": "go/pkg/mod/cache/download/github.com/coder/websocket/@v",
+        "dest-filename": "v1.8.14.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/coder/websocket/@v/v1.8.14.zip",
+        "sha256": "b729277821461eb21a816c16e29a02029dd6abbb1a43b526c1e0a6b794942de0",
+        "dest": "go/pkg/mod/cache/download/github.com/coder/websocket/@v",
+        "dest-filename": "v1.8.14.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/coreos/go-oidc/v3/@v/v3.17.0.info",
+        "sha256": "3c5194066763c356076366bcf2300fcffda88f68e20536aea4561efd3227f94d",
+        "dest": "go/pkg/mod/cache/download/github.com/coreos/go-oidc/v3/@v",
+        "dest-filename": "v3.17.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/coreos/go-oidc/v3/@v/v3.17.0.mod",
+        "sha256": "abf1c02b28d3b11a627fbe7355d0fa5366796ef85938ac5902485eb52fb21fd2",
+        "dest": "go/pkg/mod/cache/download/github.com/coreos/go-oidc/v3/@v",
+        "dest-filename": "v3.17.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/coreos/go-oidc/v3/@v/v3.17.0.zip",
+        "sha256": "fba667f687448a228315d6f0cfd00a5fa9ab8ad9b511e38575a699afc0b30aeb",
+        "dest": "go/pkg/mod/cache/download/github.com/coreos/go-oidc/v3/@v",
+        "dest-filename": "v3.17.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/creachadair/jrpc2/@v/v1.3.5.info",
+        "sha256": "fb41c8d8d1a0a36aadf115fc0cca68e308f297f43a955ede095f2d5030377784",
+        "dest": "go/pkg/mod/cache/download/github.com/creachadair/jrpc2/@v",
+        "dest-filename": "v1.3.5.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/creachadair/jrpc2/@v/v1.3.5.mod",
+        "sha256": "20ecd110297880875dbdaaac190c04d64647dc7ef34b3b541098c9a091cd00c5",
+        "dest": "go/pkg/mod/cache/download/github.com/creachadair/jrpc2/@v",
+        "dest-filename": "v1.3.5.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/creachadair/jrpc2/@v/v1.3.5.zip",
+        "sha256": "e2a8027728b59db0bcda711481f0e3b30d88ca4deed1585694e63eccdb30e57f",
+        "dest": "go/pkg/mod/cache/download/github.com/creachadair/jrpc2/@v",
+        "dest-filename": "v1.3.5.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/creachadair/mds/@v/v0.26.1.info",
+        "sha256": "1294afe2e9317a8977e83705f8cd7f00120ddc9148ddae3eac6535d2457c8e42",
+        "dest": "go/pkg/mod/cache/download/github.com/creachadair/mds/@v",
+        "dest-filename": "v0.26.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/creachadair/mds/@v/v0.26.1.mod",
+        "sha256": "da0a88f8cb2e2179bd24eb7f775c5d79fe811eaa0c32628ec3ffafc82aeaab4b",
+        "dest": "go/pkg/mod/cache/download/github.com/creachadair/mds/@v",
+        "dest-filename": "v0.26.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/creachadair/mds/@v/v0.26.1.zip",
+        "sha256": "4b1d030714aa043d2905db7451b1f015e852de04e95cce559e265a5f0cd68e8e",
+        "dest": "go/pkg/mod/cache/download/github.com/creachadair/mds/@v",
+        "dest-filename": "v0.26.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/davecgh/go-spew/@v/v1.1.1.info",
+        "sha256": "73de263267a4545708302d807be60fdb649c5c7b981d25302a638145fba0ec47",
+        "dest": "go/pkg/mod/cache/download/github.com/davecgh/go-spew/@v",
+        "dest-filename": "v1.1.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/davecgh/go-spew/@v/v1.1.1.mod",
+        "sha256": "bcb29393251237b79a17b6c19bf29134f43e8f438c3198988fcd461a1cdf05cc",
+        "dest": "go/pkg/mod/cache/download/github.com/davecgh/go-spew/@v",
+        "dest-filename": "v1.1.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/davecgh/go-spew/@v/v1.1.1.zip",
+        "sha256": "6b44a843951f371b7010c754ecc3cabefe815d5ced1c5b9409fb2d697e8a890d",
+        "dest": "go/pkg/mod/cache/download/github.com/davecgh/go-spew/@v",
+        "dest-filename": "v1.1.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/dragonfly/@v/v0.11.2-0.20260807000407-2988c7f4f621.mod",
+        "sha256": "2b88747263f0235ebd784fb92c3fd5df0ea6689516cdfedcffdb521effd9af02",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/dragonfly/@v",
+        "dest-filename": "v0.11.2-0.20260807000407-2988c7f4f621.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-nethernet/@v/v1.0.17.mod",
+        "sha256": "a0ec6996baa00e922afeb430c83e72095741dca7e2c1cfc0ae0146a6a0f17bb7",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-nethernet/@v",
+        "dest-filename": "v1.0.17.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-nethernet/@v/v1.0.25-0.20260928201420-215e46422b58.info",
+        "sha256": "fb52a50ca5738829037ea04380643cc864cbf4b3ae2009a1334233597ddbeab4",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-nethernet/@v",
+        "dest-filename": "v1.0.25-0.20260928201420-215e46422b58.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-nethernet/@v/v1.0.25-0.20260928201420-215e46422b58.mod",
+        "sha256": "b81dcdea57fdce69496913d8d628dfb3f4778a6c5ce9e5a885b3a348f655fe7a",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-nethernet/@v",
+        "dest-filename": "v1.0.25-0.20260928201420-215e46422b58.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-nethernet/@v/v1.0.25-0.20260928201420-215e46422b58.zip",
+        "sha256": "e2dcf2c5bd9522565fc61a2a2e2bf4a8ba0978381e706d8f3c6d62ea8574ad89",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-nethernet/@v",
+        "dest-filename": "v1.0.25-0.20260928201420-215e46422b58.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-playfab/@v/v1.0.0.info",
+        "sha256": "807916cfc810addacf469179dd3df7c24f3a0ee6ae623a5f8d403924953f49fc",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-playfab/@v",
+        "dest-filename": "v1.0.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-playfab/@v/v1.0.0.mod",
+        "sha256": "37e88d962335d1b8a0e476b98a2cb5124179fc413b4f37b786d8b5fc1f377502",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-playfab/@v",
+        "dest-filename": "v1.0.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-playfab/@v/v1.0.0.zip",
+        "sha256": "fda228dc6c115936ab45f2acff408fa1adb9c1085287c49cfe4102b26dad3ca2",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-playfab/@v",
+        "dest-filename": "v1.0.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-playfab/v2/@v/v2.0.3.info",
+        "sha256": "08798dfd37513e64df13e1eaaf03bb2bce1985a9b9b6a45850d2aa997e60fcb5",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-playfab/v2/@v",
+        "dest-filename": "v2.0.3.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-playfab/v2/@v/v2.0.3.mod",
+        "sha256": "23b08246d121046d9dcda44f0f65add0aae744100c599f6c6f0edef083b9c12c",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-playfab/v2/@v",
+        "dest-filename": "v2.0.3.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-playfab/v2/@v/v2.0.3.zip",
+        "sha256": "873f819bd68a4be50fbaee775c4f6296a9fc744704b88dffb74d948aeecf0497",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-playfab/v2/@v",
+        "dest-filename": "v2.0.3.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/@v/v1.0.1.info",
+        "sha256": "a99b4d43fbbde74c2e8c53a92c016f1b6a583b4c3635539c727e7047645a2e4e",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/@v",
+        "dest-filename": "v1.0.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/@v/v1.0.1.mod",
+        "sha256": "09af67432d549d243e644c447c59182eb9b722da2644743f96d7065c1502a1fe",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/@v",
+        "dest-filename": "v1.0.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/@v/v1.0.1.zip",
+        "sha256": "6874a82b61cdb9c9094b4cae278ddc087827af0f06adc75b8dc2b95996289878",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/@v",
+        "dest-filename": "v1.0.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/v2/@v/v2.0.2-0.20260618232321-7db98a0b7856.mod",
+        "sha256": "a1632553b61dd63851ba25427b4c991e34d6d604e8f519049b423b6114208852",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/v2/@v",
+        "dest-filename": "v2.0.2-0.20260618232321-7db98a0b7856.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/v2/@v/v2.0.4-0.20260916091843-af826516381a.mod",
+        "sha256": "3de2aa1f526076a34dba4231c03b7781b7a02b3c82750779b542571c1efce5a1",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/v2/@v",
+        "dest-filename": "v2.0.4-0.20260916091843-af826516381a.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/v2/@v/v2.0.4-0.20260925130556-58a99d3044b7.info",
+        "sha256": "486bd97e6991512da74d194ebed933c6a05a18a9380b798b5a61c52c4c04c516",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/v2/@v",
+        "dest-filename": "v2.0.4-0.20260925130556-58a99d3044b7.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/v2/@v/v2.0.4-0.20260925130556-58a99d3044b7.mod",
+        "sha256": "3de2aa1f526076a34dba4231c03b7781b7a02b3c82750779b542571c1efce5a1",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/v2/@v",
+        "dest-filename": "v2.0.4-0.20260925130556-58a99d3044b7.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/v2/@v/v2.0.4-0.20260925130556-58a99d3044b7.zip",
+        "sha256": "f7b6699a1b4edfad59a96f2edd03e805d546c0e2d84d635d532dc555cc83d532",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/v2/@v",
+        "dest-filename": "v2.0.4-0.20260925130556-58a99d3044b7.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/v2/@v/v2.0.4-0.20261010181454-76bd5ba39ff9.info",
+        "sha256": "b5563cadcc05717c747edb1b06dbb08f039257c23f53779fa181ff5d16f54682",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/v2/@v",
+        "dest-filename": "v2.0.4-0.20261010181454-76bd5ba39ff9.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/v2/@v/v2.0.4-0.20261010181454-76bd5ba39ff9.mod",
+        "sha256": "3de2aa1f526076a34dba4231c03b7781b7a02b3c82750779b542571c1efce5a1",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/v2/@v",
+        "dest-filename": "v2.0.4-0.20261010181454-76bd5ba39ff9.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/go-xsapi/v2/@v/v2.0.4-0.20261010181454-76bd5ba39ff9.zip",
+        "sha256": "a87955748c64bb8bc3a74606fa5b1f757d0fd02e2409411bfed8c7fcb8143f42",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/go-xsapi/v2/@v",
+        "dest-filename": "v2.0.4-0.20261010181454-76bd5ba39ff9.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/goleveldb/@v/v1.1.9.info",
+        "sha256": "b13b8cbbba762e54d1e2d927380680084bd9fd7a490d9df274d5b7b32f8d018c",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/goleveldb/@v",
+        "dest-filename": "v1.1.9.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/goleveldb/@v/v1.1.9.mod",
+        "sha256": "acf14f8b732b757014bbe555fb5933b21b64fa40a31b233d6cb8bf0c77b0f67f",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/goleveldb/@v",
+        "dest-filename": "v1.1.9.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/goleveldb/@v/v1.1.9.zip",
+        "sha256": "1ef9f43b3a98cb162f71ca3d175a21a7fd49fc78482e3eb9c2ac04fc85788074",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/goleveldb/@v",
+        "dest-filename": "v1.1.9.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/jsonc/@v/v1.0.5.info",
+        "sha256": "54c277646a562d289c5b1147728432fcb9d89a41e7b8a206bd1797b05310311d",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/jsonc/@v",
+        "dest-filename": "v1.0.5.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/jsonc/@v/v1.0.5.mod",
+        "sha256": "e6523ee4e15b002ce42f220971423c8739c78ddd7a8be70c43ee91fb7099ffe9",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/jsonc/@v",
+        "dest-filename": "v1.0.5.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/jsonc/@v/v1.0.5.zip",
+        "sha256": "5806edf4b4040bca2f9949ce1d5b6374883ace391983c2f68132569414090fef",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/jsonc/@v",
+        "dest-filename": "v1.0.5.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/worldupgrader/@v/v1.0.21.mod",
+        "sha256": "0721890d9c9de9c723db779c63d0cff90d124bf2a84dacffbc5f599cb691d270",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/worldupgrader/@v",
+        "dest-filename": "v1.0.21.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/worldupgrader/@v/v1.0.22.info",
+        "sha256": "1fb20629d882770989ac88a2b89246ff85f05d947bebc79c0d54f9d9f158e322",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/worldupgrader/@v",
+        "dest-filename": "v1.0.22.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/worldupgrader/@v/v1.0.22.mod",
+        "sha256": "0721890d9c9de9c723db779c63d0cff90d124bf2a84dacffbc5f599cb691d270",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/worldupgrader/@v",
+        "dest-filename": "v1.0.22.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/df-mc/worldupgrader/@v/v1.0.22.zip",
+        "sha256": "625f4bf952b87553e42366e7be0b9177adaa792b8698c6fc2e0fa09caf29f9b8",
+        "dest": "go/pkg/mod/cache/download/github.com/df-mc/worldupgrader/@v",
+        "dest-filename": "v1.0.22.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/dlclark/regexp2/@v/v1.11.0.info",
+        "sha256": "b3439843c4cec0a99cf89114e16605b62613b2319814f4012c224a7eef67792a",
+        "dest": "go/pkg/mod/cache/download/github.com/dlclark/regexp2/@v",
+        "dest-filename": "v1.11.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/dlclark/regexp2/@v/v1.11.0.mod",
+        "sha256": "7017e81fb9fa9227a3180a62e323158b4523c67062f0a8aa08637c092b8d4aa7",
+        "dest": "go/pkg/mod/cache/download/github.com/dlclark/regexp2/@v",
+        "dest-filename": "v1.11.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/dlclark/regexp2/@v/v1.11.0.zip",
+        "sha256": "2a93432600feacb866669789bb7910ff283e1af764fcd03d70c6592f9619aeb4",
+        "dest": "go/pkg/mod/cache/download/github.com/dlclark/regexp2/@v",
+        "dest-filename": "v1.11.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/dunglas/httpsfv/@v/v1.1.1.info",
+        "sha256": "92ca1773362c07dae6c752142b6bb6f5a62f9ae8512b0c8ebcf3c5f717f8bf2c",
+        "dest": "go/pkg/mod/cache/download/github.com/dunglas/httpsfv/@v",
+        "dest-filename": "v1.1.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/dunglas/httpsfv/@v/v1.1.1.mod",
+        "sha256": "6b1e5bec67de8fc5da677f8f9ae994657209d8cee9d2f60e8cb225f0be1fb37a",
+        "dest": "go/pkg/mod/cache/download/github.com/dunglas/httpsfv/@v",
+        "dest-filename": "v1.1.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/dunglas/httpsfv/@v/v1.1.1.zip",
+        "sha256": "ffe3cc4ea57463c120e913bc5bfe188ddc196f29715e84257d5e5a5e7b41bc8b",
+        "dest": "go/pkg/mod/cache/download/github.com/dunglas/httpsfv/@v",
+        "dest-filename": "v1.1.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/fsnotify/fsnotify/@v/v1.4.7.mod",
+        "sha256": "ea2d0a6a0e84f5d39d0c05711a55dafb1d56a974a1a9187fb24e8657196c5454",
+        "dest": "go/pkg/mod/cache/download/github.com/fsnotify/fsnotify/@v",
+        "dest-filename": "v1.4.7.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/fsnotify/fsnotify/@v/v1.4.9.info",
+        "sha256": "9d23a97ea74ad696366b73d7da151aa09109abd5f531adbd59a3effce6f4b40f",
+        "dest": "go/pkg/mod/cache/download/github.com/fsnotify/fsnotify/@v",
+        "dest-filename": "v1.4.9.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/fsnotify/fsnotify/@v/v1.4.9.mod",
+        "sha256": "0dab08a9d390fa423979b281c8a30adf6368579945519dffa568ebe6f754a036",
+        "dest": "go/pkg/mod/cache/download/github.com/fsnotify/fsnotify/@v",
+        "dest-filename": "v1.4.9.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/fsnotify/fsnotify/@v/v1.4.9.zip",
+        "sha256": "fe48f570801de16bfe973dc74e7e5923ae689ba8c274437f65dbc8a63537f759",
+        "dest": "go/pkg/mod/cache/download/github.com/fsnotify/fsnotify/@v",
+        "dest-filename": "v1.4.9.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/go-gl/mathgl/@v/v1.1.0.mod",
+        "sha256": "7b603c1df819a7b7669f18000e91de1151db5602f6eadaad303852dd29a68ad1",
+        "dest": "go/pkg/mod/cache/download/github.com/go-gl/mathgl/@v",
+        "dest-filename": "v1.1.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/go-gl/mathgl/@v/v1.2.0.info",
+        "sha256": "183ec757480243dcb563e8ed57eec8c5497f990ccbe9034becfd25ecc8e8291a",
+        "dest": "go/pkg/mod/cache/download/github.com/go-gl/mathgl/@v",
+        "dest-filename": "v1.2.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/go-gl/mathgl/@v/v1.2.0.mod",
+        "sha256": "bdc6c10f405163af2452f54facb7e0a8f6e38346560cc865e6a3fb02456ac750",
+        "dest": "go/pkg/mod/cache/download/github.com/go-gl/mathgl/@v",
+        "dest-filename": "v1.2.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/go-gl/mathgl/@v/v1.2.0.zip",
+        "sha256": "c8409b15fd4a601203fe28822015c80165e9067cafc4bb52a466230204f101cc",
+        "dest": "go/pkg/mod/cache/download/github.com/go-gl/mathgl/@v",
+        "dest-filename": "v1.2.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/go-jose/go-jose/v4/@v/v4.1.3.mod",
+        "sha256": "e069e6002d29495b8c2dc6cf0d3b56a075ec5be7abb6c2eb1a1c0845cb66b8b3",
+        "dest": "go/pkg/mod/cache/download/github.com/go-jose/go-jose/v4/@v",
+        "dest-filename": "v4.1.3.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/go-jose/go-jose/v4/@v/v4.1.4.info",
+        "sha256": "f59ee3435959b9a02b8581417e0f9d41e7af42fe297a69cb5f4b62720204a2ec",
+        "dest": "go/pkg/mod/cache/download/github.com/go-jose/go-jose/v4/@v",
+        "dest-filename": "v4.1.4.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/go-jose/go-jose/v4/@v/v4.1.4.mod",
+        "sha256": "e069e6002d29495b8c2dc6cf0d3b56a075ec5be7abb6c2eb1a1c0845cb66b8b3",
+        "dest": "go/pkg/mod/cache/download/github.com/go-jose/go-jose/v4/@v",
+        "dest-filename": "v4.1.4.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/go-jose/go-jose/v4/@v/v4.1.4.zip",
+        "sha256": "06a37b6668012a2dd109a5f71f6ae15387dc808b35d3cf73f5e406e78a17b027",
+        "dest": "go/pkg/mod/cache/download/github.com/go-jose/go-jose/v4/@v",
+        "dest-filename": "v4.1.4.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/golang/protobuf/@v/v1.2.0.info",
+        "sha256": "e1381e9e53f3ffcd520f3e1bfac5dd40179eeeebd74b40e91b9f4656aebc8d02",
+        "dest": "go/pkg/mod/cache/download/github.com/golang/protobuf/@v",
+        "dest-filename": "v1.2.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/golang/protobuf/@v/v1.2.0.mod",
+        "sha256": "c0a2031bf277087749d8ccc432449f6b1375787eac8641dd2f930074231aafb4",
+        "dest": "go/pkg/mod/cache/download/github.com/golang/protobuf/@v",
+        "dest-filename": "v1.2.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/golang/protobuf/@v/v1.2.0.zip",
+        "sha256": "7574e650f6f12186def8b31b0e8d980ccb88a6a365b99fbf36515f6e7b99fd09",
+        "dest": "go/pkg/mod/cache/download/github.com/golang/protobuf/@v",
+        "dest-filename": "v1.2.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/golang/snappy/@v/v0.0.1.mod",
+        "sha256": "f56debc9765b8492979fefa31209b67c9627d90e2469c6159c940daf6d249905",
+        "dest": "go/pkg/mod/cache/download/github.com/golang/snappy/@v",
+        "dest-filename": "v0.0.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/golang/snappy/@v/v0.0.4.info",
+        "sha256": "e3ddef56d836be107aa8d60d74cedfd3cbb5fb6367ec5dd893af4e831271d5ed",
+        "dest": "go/pkg/mod/cache/download/github.com/golang/snappy/@v",
+        "dest-filename": "v0.0.4.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/golang/snappy/@v/v0.0.4.mod",
+        "sha256": "f56debc9765b8492979fefa31209b67c9627d90e2469c6159c940daf6d249905",
+        "dest": "go/pkg/mod/cache/download/github.com/golang/snappy/@v",
+        "dest-filename": "v0.0.4.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/golang/snappy/@v/v0.0.4.zip",
+        "sha256": "ea4545ca44ee990554094df6de440386a440a5bd99106e048939409d63beb423",
+        "dest": "go/pkg/mod/cache/download/github.com/golang/snappy/@v",
+        "dest-filename": "v0.0.4.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/go-cmp/@v/v0.6.0.info",
+        "sha256": "e624a2c1fe53ae5c8cdce4707290e8282c2c89f3143951670eb175957aa9cfa9",
+        "dest": "go/pkg/mod/cache/download/github.com/google/go-cmp/@v",
+        "dest-filename": "v0.6.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/go-cmp/@v/v0.6.0.mod",
+        "sha256": "e7c7669d4a1dd589ba3e024ba27f43f293db611fe075ce20d7b884370d63febd",
+        "dest": "go/pkg/mod/cache/download/github.com/google/go-cmp/@v",
+        "dest-filename": "v0.6.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/go-cmp/@v/v0.6.0.zip",
+        "sha256": "4b4e9bf6c48211080651b491dfb48d68b736c66a305bcf94605606e1ba2eaa4a",
+        "dest": "go/pkg/mod/cache/download/github.com/google/go-cmp/@v",
+        "dest-filename": "v0.6.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/go-cmp/@v/v0.7.0.info",
+        "sha256": "635bbe64cceaad0e5bbd897a78cac24ca184ea8c91394443cc30ee35be33f649",
+        "dest": "go/pkg/mod/cache/download/github.com/google/go-cmp/@v",
+        "dest-filename": "v0.7.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/go-cmp/@v/v0.7.0.mod",
+        "sha256": "31c874a1d2a18e62b0550f823ce7a575c8dec7f8fd9d4fa1959bb12d7f7c0f14",
+        "dest": "go/pkg/mod/cache/download/github.com/google/go-cmp/@v",
+        "dest-filename": "v0.7.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/go-cmp/@v/v0.7.0.zip",
+        "sha256": "64a9ce046f2c320e3783fba0d1f4a15f8a18f0b009b67bf27f7630919db3f539",
+        "dest": "go/pkg/mod/cache/download/github.com/google/go-cmp/@v",
+        "dest-filename": "v0.7.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/uuid/@v/v1.6.0.info",
+        "sha256": "d87bbbc4753d56dc51be553f939421d2da5cdfd3c733c888cddbafaef56d7060",
+        "dest": "go/pkg/mod/cache/download/github.com/google/uuid/@v",
+        "dest-filename": "v1.6.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/uuid/@v/v1.6.0.mod",
+        "sha256": "73da47b6338b00a082fd451aa35a3273d3adc09b8e9bba98dab01091e402af6e",
+        "dest": "go/pkg/mod/cache/download/github.com/google/uuid/@v",
+        "dest-filename": "v1.6.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/google/uuid/@v/v1.6.0.zip",
+        "sha256": "d0f02f377217f42702e259684e06441edbf5140dddcc34ba9bea56038b38a6ed",
+        "dest": "go/pkg/mod/cache/download/github.com/google/uuid/@v",
+        "dest-filename": "v1.6.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hashimthearab/go-raknet/@v/v1.15.1-0.20261011190141-6124f52657d4.info",
+        "sha256": "fdc2622c5bd73d3aca1edb8694d5c68d64faa604238965602909c91a107978f2",
+        "dest": "go/pkg/mod/cache/download/github.com/hashimthearab/go-raknet/@v",
+        "dest-filename": "v1.15.1-0.20261011190141-6124f52657d4.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hashimthearab/go-raknet/@v/v1.15.1-0.20261011190141-6124f52657d4.mod",
+        "sha256": "2bcfccc18545625062be3d3ad69dcc03c155394cf41a6679f15330216393205f",
+        "dest": "go/pkg/mod/cache/download/github.com/hashimthearab/go-raknet/@v",
+        "dest-filename": "v1.15.1-0.20261011190141-6124f52657d4.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hashimthearab/go-raknet/@v/v1.15.1-0.20261011190141-6124f52657d4.zip",
+        "sha256": "ace3782dbe5fe88e98b134de76bb5d7eae11941f45a0bbf52d0f38e6400bf758",
+        "dest": "go/pkg/mod/cache/download/github.com/hashimthearab/go-raknet/@v",
+        "dest-filename": "v1.15.1-0.20261011190141-6124f52657d4.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hashimthearab/gophertunnel/@v/v1.25.3-0.20261021210103-c5c8f50d5385.info",
+        "sha256": "0f0f174f2e79797e48acf457f035c80dc094ab0c7e39da55ad70a6505a210ee8",
+        "dest": "go/pkg/mod/cache/download/github.com/hashimthearab/gophertunnel/@v",
+        "dest-filename": "v1.25.3-0.20261021210103-c5c8f50d5385.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hashimthearab/gophertunnel/@v/v1.25.3-0.20261021210103-c5c8f50d5385.mod",
+        "sha256": "912a6662e4f19e9c5ecec0e402094207940f7aa0c2e2dec81a2de957f3815f4d",
+        "dest": "go/pkg/mod/cache/download/github.com/hashimthearab/gophertunnel/@v",
+        "dest-filename": "v1.25.3-0.20261021210103-c5c8f50d5385.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hashimthearab/gophertunnel/@v/v1.25.3-0.20261021210103-c5c8f50d5385.zip",
+        "sha256": "7bd6966e30101f8c6f5d09e9882a26119a1ee30e3b794fa61901fda9fbaa2851",
+        "dest": "go/pkg/mod/cache/download/github.com/hashimthearab/gophertunnel/@v",
+        "dest-filename": "v1.25.3-0.20261021210103-c5c8f50d5385.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hpcloud/tail/@v/v1.0.0.info",
+        "sha256": "072902235bb367221bac5ce15f93239978c4de5796c82d4a0cb97502f81c6a17",
+        "dest": "go/pkg/mod/cache/download/github.com/hpcloud/tail/@v",
+        "dest-filename": "v1.0.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hpcloud/tail/@v/v1.0.0.mod",
+        "sha256": "0005c9955199580a5b950e2a03416555cc0dd8d362ed9a919b4a266b837e209a",
+        "dest": "go/pkg/mod/cache/download/github.com/hpcloud/tail/@v",
+        "dest-filename": "v1.0.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/hpcloud/tail/@v/v1.0.0.zip",
+        "sha256": "3cba484748e2e2919d72663599b8cc6454058976fbca96f9ac78d84f195b922a",
+        "dest": "go/pkg/mod/cache/download/github.com/hpcloud/tail/@v",
+        "dest-filename": "v1.0.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/jordanlewis/gcassert/@v/v0.0.0-20250430164644-389ef753e22e.info",
+        "sha256": "5f74af6b863dfc4b3f8524ba15c5794b1cbdc6a7a5279635e5ad34137bc66f9b",
+        "dest": "go/pkg/mod/cache/download/github.com/jordanlewis/gcassert/@v",
+        "dest-filename": "v0.0.0-20250430164644-389ef753e22e.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/jordanlewis/gcassert/@v/v0.0.0-20250430164644-389ef753e22e.mod",
+        "sha256": "a4ad6b641e89ca2f0e97063bed0cd7cb2037951babf41280abd0e5ef62e22bc4",
+        "dest": "go/pkg/mod/cache/download/github.com/jordanlewis/gcassert/@v",
+        "dest-filename": "v0.0.0-20250430164644-389ef753e22e.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/jordanlewis/gcassert/@v/v0.0.0-20250430164644-389ef753e22e.zip",
+        "sha256": "8e639dfb7bb9185dbf332552a751c987c26f3718a87ce3371cd582b0c0102611",
+        "dest": "go/pkg/mod/cache/download/github.com/jordanlewis/gcassert/@v",
+        "dest-filename": "v0.0.0-20250430164644-389ef753e22e.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/klauspost/compress/@v/v1.13.6.mod",
+        "sha256": "87331bbd56f910550a4848fbee7851cc43aa569bca31d944092654f08acf6f2e",
+        "dest": "go/pkg/mod/cache/download/github.com/klauspost/compress/@v",
+        "dest-filename": "v1.13.6.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/klauspost/compress/@v/v1.18.1.mod",
+        "sha256": "625cad8c4af50bfadb1bc865a4b1dd8eedaaec4012e84fb7f17251510fe88d65",
+        "dest": "go/pkg/mod/cache/download/github.com/klauspost/compress/@v",
+        "dest-filename": "v1.18.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/klauspost/compress/@v/v1.18.4.info",
+        "sha256": "6c2f9fc210903c90c75cc771bb2210766b1b049d4ccc298ee1c9f84329124464",
+        "dest": "go/pkg/mod/cache/download/github.com/klauspost/compress/@v",
+        "dest-filename": "v1.18.4.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/klauspost/compress/@v/v1.18.4.mod",
+        "sha256": "a62dd291671bd2cbbe6e194312b641a7cdb3c62202fd1e48a16e6bf8c259c867",
+        "dest": "go/pkg/mod/cache/download/github.com/klauspost/compress/@v",
+        "dest-filename": "v1.18.4.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/klauspost/compress/@v/v1.18.4.zip",
+        "sha256": "a295e4443ad6c88d8f5b8690807f413800fa171571d3a5970e2abefe6fe6e990",
+        "dest": "go/pkg/mod/cache/download/github.com/klauspost/compress/@v",
+        "dest-filename": "v1.18.4.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/nxadm/tail/@v/v1.4.11.info",
+        "sha256": "818f1e683a5d0fc375874c478920541068cdb44159da63947fee25bd1d68e0f4",
+        "dest": "go/pkg/mod/cache/download/github.com/nxadm/tail/@v",
+        "dest-filename": "v1.4.11.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/nxadm/tail/@v/v1.4.11.mod",
+        "sha256": "8597efbd4c800b7f411d80a74a1106cbb6c634fefd7288998a23a9220c29250c",
+        "dest": "go/pkg/mod/cache/download/github.com/nxadm/tail/@v",
+        "dest-filename": "v1.4.11.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/nxadm/tail/@v/v1.4.11.zip",
+        "sha256": "c42a7b1a10a9b31f61806742e7be99e524a2885c9180f18403be48a703b5667a",
+        "dest": "go/pkg/mod/cache/download/github.com/nxadm/tail/@v",
+        "dest-filename": "v1.4.11.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/ginkgo/@v/v1.16.5.info",
+        "sha256": "fac5e657c7f68ad5b665b4f48912f8f2f292dfa9e6e31dac8ea77f4bc66cb742",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/ginkgo/@v",
+        "dest-filename": "v1.16.5.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/ginkgo/@v/v1.16.5.mod",
+        "sha256": "25631b029f86dc1d5bc8aeae5e0450955c05e4abfaa70df298e6cb1f7ac54097",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/ginkgo/@v",
+        "dest-filename": "v1.16.5.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/ginkgo/@v/v1.16.5.zip",
+        "sha256": "e23fc33b0affa73a4f4c63410af931bf1f8d5b9db266b3461177036d725eacc5",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/ginkgo/@v",
+        "dest-filename": "v1.16.5.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/ginkgo/@v/v1.6.0.mod",
+        "sha256": "edfaa65a8835fd58b75c994930a210417b77add7c697c906fbf591cc22fe1ee6",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/ginkgo/@v",
+        "dest-filename": "v1.6.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/ginkgo/@v/v1.7.0.mod",
+        "sha256": "edfaa65a8835fd58b75c994930a210417b77add7c697c906fbf591cc22fe1ee6",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/ginkgo/@v",
+        "dest-filename": "v1.7.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/gomega/@v/v1.17.0.info",
+        "sha256": "2f340be86a7b7edf1deb124b66689b4c3ec7d05f437b60ccd5662b54f47982c1",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/gomega/@v",
+        "dest-filename": "v1.17.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/gomega/@v/v1.17.0.mod",
+        "sha256": "ce583e41b985b0b33a4eefbe143df21e426790af9a236f95dcc2cef82062b526",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/gomega/@v",
+        "dest-filename": "v1.17.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/gomega/@v/v1.17.0.zip",
+        "sha256": "6bec944e42dbc11c498c5185d03db1bf6953c5f0aa64bfcd9a6b94793883f3c1",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/gomega/@v",
+        "dest-filename": "v1.17.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/onsi/gomega/@v/v1.4.3.mod",
+        "sha256": "ad8a30c923c467e015efecb0b4c8f897bfd35ea3d5c6bfd802b53e9807c67730",
+        "dest": "go/pkg/mod/cache/download/github.com/onsi/gomega/@v",
+        "dest-filename": "v1.4.3.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pelletier/go-toml/@v/v1.9.5.info",
+        "sha256": "dbd1373c562f92fed60062feaafff14f8e21608b9e8d515fd6c061bbf0807d52",
+        "dest": "go/pkg/mod/cache/download/github.com/pelletier/go-toml/@v",
+        "dest-filename": "v1.9.5.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pelletier/go-toml/@v/v1.9.5.mod",
+        "sha256": "c0ec26c7f843d368a2d5a9390359c567ebe316171bd651d31dcead1bb2e07ad9",
+        "dest": "go/pkg/mod/cache/download/github.com/pelletier/go-toml/@v",
+        "dest-filename": "v1.9.5.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pelletier/go-toml/@v/v1.9.5.zip",
+        "sha256": "de3dcda660cc800cd86d03273a25956d67f416e8fcbe4d2001a2cb4a01e6ac60",
+        "dest": "go/pkg/mod/cache/download/github.com/pelletier/go-toml/@v",
+        "dest-filename": "v1.9.5.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/datachannel/@v/v1.6.0.mod",
+        "sha256": "ec50aef104b8d3fa05b105b5887eb3e06da4a1eaf03602051c2ab82570297689",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/datachannel/@v",
+        "dest-filename": "v1.6.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/datachannel/@v/v1.6.3.info",
+        "sha256": "6ec1c8ff4a6e6e3e66206a8c8abf1ec8e602ce9c7ec5ebf8b3d8d4d4371be564",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/datachannel/@v",
+        "dest-filename": "v1.6.3.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/datachannel/@v/v1.6.3.mod",
+        "sha256": "3836d7710b49c3fe391dacd4de6d83ba448deaf28d43b899f3dbe4e2b6855675",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/datachannel/@v",
+        "dest-filename": "v1.6.3.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/datachannel/@v/v1.6.3.zip",
+        "sha256": "2e0a1a4f6c4e6c06ed6ac5ad0a710097f6bb6525cea08f4b93ba0dbaacf9e4b2",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/datachannel/@v",
+        "dest-filename": "v1.6.3.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/dtls/v3/@v/v3.1.2.mod",
+        "sha256": "002a7671d9c05b7aae947a85efea4a2dd0f3ea816a20a1c952601710b9fce634",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/dtls/v3/@v",
+        "dest-filename": "v3.1.2.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/dtls/v3/@v/v3.1.9.info",
+        "sha256": "3b3a5cdced94a02caefc5f921c25e954bb8095b49a21732102b22cb7bdc5bef9",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/dtls/v3/@v",
+        "dest-filename": "v3.1.9.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/dtls/v3/@v/v3.1.9.mod",
+        "sha256": "cf3b3707a8935558be68cec98dbabbde1941469e134d442ecbff5d63f29804a5",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/dtls/v3/@v",
+        "dest-filename": "v3.1.9.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/dtls/v3/@v/v3.1.9.zip",
+        "sha256": "cfaf80ac2d14a4dd424fee87c2bdea4f681a04ad936c4a5bee2e2bfd1011ac8c",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/dtls/v3/@v",
+        "dest-filename": "v3.1.9.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/ice/v4/@v/v4.2.1.mod",
+        "sha256": "c501e2741ff40241ea86ba51c5408e04bac5c8fe818f75cee7c0ddcd21a40733",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/ice/v4/@v",
+        "dest-filename": "v4.2.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/ice/v4/@v/v4.4.4.info",
+        "sha256": "21cd6858caebad426d29583e2c5118f103f1bd94172e257da839d285ed4523eb",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/ice/v4/@v",
+        "dest-filename": "v4.4.4.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/ice/v4/@v/v4.4.4.mod",
+        "sha256": "54c884ae3dfea6f8728af276c6a89d840972bd986abffeca86a7330b16c7f36d",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/ice/v4/@v",
+        "dest-filename": "v4.4.4.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/ice/v4/@v/v4.4.4.zip",
+        "sha256": "ff28dde2329228d48e746f1878035aa21bc3fb11fe5118e853db386bdb7d80a5",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/ice/v4/@v",
+        "dest-filename": "v4.4.4.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/interceptor/@v/v0.1.44.mod",
+        "sha256": "af2386104287bd4ebfe11d1a05c51a75fe74883df62b263005ad2bd31b2692f9",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/interceptor/@v",
+        "dest-filename": "v0.1.44.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/interceptor/@v/v0.1.49.info",
+        "sha256": "4ea5d4d3d9170e720468c91e452effb29bfd62247416e6861ad6910251bfd9a8",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/interceptor/@v",
+        "dest-filename": "v0.1.49.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/interceptor/@v/v0.1.49.mod",
+        "sha256": "58607cb7a02e2f82ed6880d0aafe9fd00afc645501d11fa4f6823952f0f5fc44",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/interceptor/@v",
+        "dest-filename": "v0.1.49.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/interceptor/@v/v0.1.49.zip",
+        "sha256": "cf3e3ab5a695d09952d5547fa45cb2042f2a364aea7b18b98148870fd322c623",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/interceptor/@v",
+        "dest-filename": "v0.1.49.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/logging/@v/v0.2.4.info",
+        "sha256": "e95241539405fe75c15cc33b51178cd091def0aef38bb04e6f56a1d2e622c2a9",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/logging/@v",
+        "dest-filename": "v0.2.4.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/logging/@v/v0.2.4.mod",
+        "sha256": "bfbce8d81a9eaf0b1ba6d3c4d0a58f7e7d6d1be06bec518db96f62f7feeb3d6f",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/logging/@v",
+        "dest-filename": "v0.2.4.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/logging/@v/v0.2.4.zip",
+        "sha256": "b904074dd76009e71b4e4e0e004a2c7862bff0a8690b4f47410c46b172b3830c",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/logging/@v",
+        "dest-filename": "v0.2.4.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/mdns/v2/@v/v2.1.0.mod",
+        "sha256": "db929a17960a3f3e3c71b9b71a726150db2cdbad8a224cf976c59b0376f0fa22",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/mdns/v2/@v",
+        "dest-filename": "v2.1.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/mdns/v2/@v/v2.2.1.info",
+        "sha256": "81befa8f25562a2abfb31a3c12254298f747c653ad50ee009d07bc51e4ea2fb3",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/mdns/v2/@v",
+        "dest-filename": "v2.2.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/mdns/v2/@v/v2.2.1.mod",
+        "sha256": "3f2203e1a4cb3b943590b00f2a12dbd77678e405f8040b0d557a2b98ee55c11e",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/mdns/v2/@v",
+        "dest-filename": "v2.2.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/mdns/v2/@v/v2.2.1.zip",
+        "sha256": "35582d8e818974b1d1b8fe7dab30a0db5efc49e38650ceb2ef51f050e8d7f689",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/mdns/v2/@v",
+        "dest-filename": "v2.2.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/randutil/@v/v0.1.0.info",
+        "sha256": "2b9e36e3d2fc87cb2ab203ba0af892110d84999369cb7a580558c2df552dd053",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/randutil/@v",
+        "dest-filename": "v0.1.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/randutil/@v/v0.1.0.mod",
+        "sha256": "2a2b0f630a629b3c9f4bfd02db3263a9b474bb8d48d19a52daeb98f5056dc321",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/randutil/@v",
+        "dest-filename": "v0.1.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/randutil/@v/v0.1.0.zip",
+        "sha256": "35161b7c4ff98bb09fd8055537f9b2499116c19a89b9700b9b1986b7147b6805",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/randutil/@v",
+        "dest-filename": "v0.1.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/rtcp/@v/v1.2.16.mod",
+        "sha256": "dc77009416936dbc4c4357c2236a798c400dfbf86400b8ca2c1e8e8755dd214e",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/rtcp/@v",
+        "dest-filename": "v1.2.16.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/rtcp/@v/v1.2.17.info",
+        "sha256": "a1f745b4879d99307a787540a58c1cb214207c8723fa632bb32d26b05ac9340a",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/rtcp/@v",
+        "dest-filename": "v1.2.17.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/rtcp/@v/v1.2.17.mod",
+        "sha256": "6b0ec3f6824310ae68482336e5ee4e73bcaa224c639ba38b129023e687f1f80b",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/rtcp/@v",
+        "dest-filename": "v1.2.17.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/rtcp/@v/v1.2.17.zip",
+        "sha256": "8c553da7b246022087d265e010463c1d50ec61615cb0bf8cca1ddcf1c1a87418",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/rtcp/@v",
+        "dest-filename": "v1.2.17.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/rtp/@v/v1.10.1.mod",
+        "sha256": "ac05769c2f3938da49792a860eddaf4537d63cea80f075c47144d5c6be70ee40",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/rtp/@v",
+        "dest-filename": "v1.10.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/rtp/@v/v1.10.5.info",
+        "sha256": "6eec5dbeb085fd560b70373da4c0cbdafa7d641d872e559f12fee6efc669ba78",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/rtp/@v",
+        "dest-filename": "v1.10.5.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/rtp/@v/v1.10.5.mod",
+        "sha256": "7f132f63de5e5ce3faee1a8dee62894d985e1ba81595b824f3a0140e48079fef",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/rtp/@v",
+        "dest-filename": "v1.10.5.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/rtp/@v/v1.10.5.zip",
+        "sha256": "2b4ce26966cc2f3de9c732699aec551616808c6656bc861e7f0b720dab1e4ff3",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/rtp/@v",
+        "dest-filename": "v1.10.5.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sctp/@v/v1.11.2.mod",
+        "sha256": "54c3675189c99fd8d036befd91e9df2170d0bc977f7798f08d1a40c06ce7e7cb",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sctp/@v",
+        "dest-filename": "v1.11.2.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sctp/@v/v1.11.3.info",
+        "sha256": "8d3c8c53281881d5d919e40e5d3f988237f74321fca7bf3ccda0b6adea32e1f3",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sctp/@v",
+        "dest-filename": "v1.11.3.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sctp/@v/v1.11.3.mod",
+        "sha256": "cafa2eaae2cdb0fabc74b00492913d7d56c670b55eb8a78a5e4b471c102d7e65",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sctp/@v",
+        "dest-filename": "v1.11.3.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sctp/@v/v1.11.3.zip",
+        "sha256": "a81bd2b2da03bce7758297584de31bf493951333288e0339188f957362e611ba",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sctp/@v",
+        "dest-filename": "v1.11.3.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sctp/@v/v1.9.2.mod",
+        "sha256": "43a895e8dd2829d2e72501b68b658a2e2caa29e0d0f880eacb718243bf4ffc54",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sctp/@v",
+        "dest-filename": "v1.9.2.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sdp/v3/@v/v3.0.18.mod",
+        "sha256": "5dfffd2f61cf108c7a16aadd6f45d0a99f3e54849c29f109394b6f873684fbe7",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sdp/v3/@v",
+        "dest-filename": "v3.0.18.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sdp/v3/@v/v3.0.20.info",
+        "sha256": "dcd9532ab4044f05f3cd9d84991cdac02b09118bd6f5b74b554473527f659e73",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sdp/v3/@v",
+        "dest-filename": "v3.0.20.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sdp/v3/@v/v3.0.20.mod",
+        "sha256": "d750f13e9c75ae01d8ab7b2c3d752b5bf9bd1f72dea9e587f752ef6d16ace080",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sdp/v3/@v",
+        "dest-filename": "v3.0.20.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/sdp/v3/@v/v3.0.20.zip",
+        "sha256": "7441a81b54b3c02e2882711c01b7cf8a14d692bcba551b40ab9200c685f6364f",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/sdp/v3/@v",
+        "dest-filename": "v3.0.20.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/srtp/v3/@v/v3.0.10.mod",
+        "sha256": "3c1ddf6a2a8f3619a2d1166cdb5d28ad24840c122cc993adad0ba5227c92f0f8",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/srtp/v3/@v",
+        "dest-filename": "v3.0.10.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/srtp/v3/@v/v3.1.0.info",
+        "sha256": "18b16507743039bd6d43ff1b3fc5f55bc72c5749c145d2bc2fd734c6d9717dfc",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/srtp/v3/@v",
+        "dest-filename": "v3.1.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/srtp/v3/@v/v3.1.0.mod",
+        "sha256": "4ef52d24025a3e75a4faabcaab53369d69a34dbda6d08dd164a31512f967056c",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/srtp/v3/@v",
+        "dest-filename": "v3.1.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/srtp/v3/@v/v3.1.0.zip",
+        "sha256": "b7705364b39ee5856f7435bea35ea1e26c320c8ec4bc1d32a9fa578f6ec9b6c9",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/srtp/v3/@v",
+        "dest-filename": "v3.1.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/stun/v3/@v/v3.1.1.info",
+        "sha256": "07299ee845a44385e86233b5329b82e9856dcd308572e52e94533afc4aec0bba",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/stun/v3/@v",
+        "dest-filename": "v3.1.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/stun/v3/@v/v3.1.1.mod",
+        "sha256": "91ce250dd49c793371dad8faeadc5fe04285f0d423251f2c30396a6d6f1669e6",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/stun/v3/@v",
+        "dest-filename": "v3.1.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/stun/v3/@v/v3.1.1.zip",
+        "sha256": "067915a3e7993755b96e3488f7b2865dcb7026bb721e5aa7d0fa3886b9017f82",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/stun/v3/@v",
+        "dest-filename": "v3.1.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/stun/v4/@v/v4.0.1.info",
+        "sha256": "7a6a3289be7a90cae17de7c7d31ac8a2d23a748110829f1dbe2d1c067269e072",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/stun/v4/@v",
+        "dest-filename": "v4.0.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/stun/v4/@v/v4.0.1.mod",
+        "sha256": "a93d2426a33c6a43b5b2203b1b88212bac14a83248c411110799e181f61c1551",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/stun/v4/@v",
+        "dest-filename": "v4.0.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/stun/v4/@v/v4.0.1.zip",
+        "sha256": "5491d3c230f0a1fccbb88d259d0baf4feca256e8d7b262e6b8058e9af982bfd4",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/stun/v4/@v",
+        "dest-filename": "v4.0.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/transport/v4/@v/v4.0.1.info",
+        "sha256": "bd2b007be366fc060a7e7d74fa8e47176daff40a1f5946c7020d01df0b692adb",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/transport/v4/@v",
+        "dest-filename": "v4.0.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/transport/v4/@v/v4.0.1.mod",
+        "sha256": "7e8b6a9c16e30843f7f7962742c7b435b83b8d039cee052ac53651d2e5368a17",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/transport/v4/@v",
+        "dest-filename": "v4.0.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/transport/v4/@v/v4.0.1.zip",
+        "sha256": "0388cdbc1a1b101d1e726a221de442c4868f458b5be04950c6f0f712e3c63477",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/transport/v4/@v",
+        "dest-filename": "v4.0.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/transport/v5/@v/v5.0.0.mod",
+        "sha256": "3efa42d02c1e05da1bdedb0da9a9b18bfd3b7cd86f3ffbbe1d4a0c464978ba96",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/transport/v5/@v",
+        "dest-filename": "v5.0.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/transport/v5/@v/v5.0.1.info",
+        "sha256": "9bf50ab0f2f4ea6fc9ff2e2799a0feb64e3040c37f494fa5380ca0e99ac61e96",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/transport/v5/@v",
+        "dest-filename": "v5.0.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/transport/v5/@v/v5.0.1.mod",
+        "sha256": "3efa42d02c1e05da1bdedb0da9a9b18bfd3b7cd86f3ffbbe1d4a0c464978ba96",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/transport/v5/@v",
+        "dest-filename": "v5.0.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/transport/v5/@v/v5.0.1.zip",
+        "sha256": "26a34cb6600fdba5b7d298e91599699240f3915a54e4ca477436a262ef23be53",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/transport/v5/@v",
+        "dest-filename": "v5.0.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/turn/v4/@v/v4.1.4.info",
+        "sha256": "0da3ec1459f0685195f1614bf7973f535a9f8ccb62a7c9b12012c3f87bb849e3",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/turn/v4/@v",
+        "dest-filename": "v4.1.4.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/turn/v4/@v/v4.1.4.mod",
+        "sha256": "ed081600e9c70eb51f6a9aa1f853aa3b702011f1de18815d4046c15d34991862",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/turn/v4/@v",
+        "dest-filename": "v4.1.4.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/turn/v4/@v/v4.1.4.zip",
+        "sha256": "cc3b3a13a0b166e939e5f2b3239c2c0a5574504b5a7f46b76ffbd84d7654634b",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/turn/v4/@v",
+        "dest-filename": "v4.1.4.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/turn/v5/@v/v5.1.2.info",
+        "sha256": "b67845935b107bc0ed88b85443583a6f73a48ea936d2fa2e66ded3d5a94af186",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/turn/v5/@v",
+        "dest-filename": "v5.1.2.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/turn/v5/@v/v5.1.2.mod",
+        "sha256": "8180ca3fde97b4fa333dae8645e2cc3e44da20688251e0384bc97dafd22ecbab",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/turn/v5/@v",
+        "dest-filename": "v5.1.2.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/turn/v5/@v/v5.1.2.zip",
+        "sha256": "87716d531d741ca07afcc2acab4bde6037b0df405887a6143067e01d2203dd9b",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/turn/v5/@v",
+        "dest-filename": "v5.1.2.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/webrtc/v4/@v/v4.2.10-0.20260224155637-aa3b95c72dd2.mod",
+        "sha256": "a54e96ed7a1308b2c6839d4d19534b5b29d638ef979ecc7e78b6620d3db01d08",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/webrtc/v4/@v",
+        "dest-filename": "v4.2.10-0.20260224155637-aa3b95c72dd2.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/webrtc/v4/@v/v4.2.21-0.20260920133716-91bfc6c2039f.info",
+        "sha256": "304790e8eb764ae38a8d61a6f310c1da07b773814f932fed9db32841b06deb00",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/webrtc/v4/@v",
+        "dest-filename": "v4.2.21-0.20260920133716-91bfc6c2039f.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/webrtc/v4/@v/v4.2.21-0.20260920133716-91bfc6c2039f.mod",
+        "sha256": "5af8f1dab5bff699dc55a869f72b5d095e435e24a5cfb2495744ad1009424409",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/webrtc/v4/@v",
+        "dest-filename": "v4.2.21-0.20260920133716-91bfc6c2039f.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pion/webrtc/v4/@v/v4.2.21-0.20260920133716-91bfc6c2039f.zip",
+        "sha256": "a8a65ce226820ebd72867397f0e08cdfdd87d8d5a966b1702529de70d15ae51e",
+        "dest": "go/pkg/mod/cache/download/github.com/pion/webrtc/v4/@v",
+        "dest-filename": "v4.2.21-0.20260920133716-91bfc6c2039f.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pmezard/go-difflib/@v/v1.0.0.info",
+        "sha256": "97cbb0239d80e5221efd1f0aa645d120272bd3ee7975bd654f07a8ed0c2c2adc",
+        "dest": "go/pkg/mod/cache/download/github.com/pmezard/go-difflib/@v",
+        "dest-filename": "v1.0.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pmezard/go-difflib/@v/v1.0.0.mod",
+        "sha256": "74b2e766eb215377864d587badf57e95521f692d2a7860b3c7759093f9c9bec2",
+        "dest": "go/pkg/mod/cache/download/github.com/pmezard/go-difflib/@v",
+        "dest-filename": "v1.0.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/pmezard/go-difflib/@v/v1.0.0.zip",
+        "sha256": "de04cecc1a4b8d53e4357051026794bcbc54f2e6a260cfac508ce69d5d6457a0",
+        "dest": "go/pkg/mod/cache/download/github.com/pmezard/go-difflib/@v",
+        "dest-filename": "v1.0.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/go-ossfuzz-seeds/@v/v0.1.0.info",
+        "sha256": "776cc8c732142f674cc43576192163d3340db66ed9f3624905166144e26f1d8b",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/go-ossfuzz-seeds/@v",
+        "dest-filename": "v0.1.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/go-ossfuzz-seeds/@v/v0.1.0.mod",
+        "sha256": "d50527304783ab156b78d902401f9444f461266714bef06b726392086fd0e895",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/go-ossfuzz-seeds/@v",
+        "dest-filename": "v0.1.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/go-ossfuzz-seeds/@v/v0.1.0.zip",
+        "sha256": "7bbde287f0cc4727ddf4f7e4d06b84bdfb3fa27475bd062b5ceac32a62e815bc",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/go-ossfuzz-seeds/@v",
+        "dest-filename": "v0.1.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/qpack/@v/v0.6.0.info",
+        "sha256": "2eb2df18c1b82af40726754086b2a9b5e000bab70d34653b3d70849f2f391fdc",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/qpack/@v",
+        "dest-filename": "v0.6.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/qpack/@v/v0.6.0.mod",
+        "sha256": "7cdce4a0772f217deb859f405b7d58c84d909fcdab5e547e3e3d3aeb1148e641",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/qpack/@v",
+        "dest-filename": "v0.6.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/qpack/@v/v0.6.0.zip",
+        "sha256": "3ac037cd1747420bc00bd6a793b4b197a2359fc354de12dc2187477417564914",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/qpack/@v",
+        "dest-filename": "v0.6.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/quic-go/@v/v0.62.0.info",
+        "sha256": "a763eafc4f75545ed72a4ade0449aa275a4a21915d99ecb2437218a2baa0fab1",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/quic-go/@v",
+        "dest-filename": "v0.62.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/quic-go/@v/v0.62.0.mod",
+        "sha256": "93c5c1f3f837ecdc220b8bba0a91cf3e00662cb54ac8e3d152eb5a648baff145",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/quic-go/@v",
+        "dest-filename": "v0.62.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/quic-go/@v/v0.62.0.zip",
+        "sha256": "92beca3d3ef957b4d9de3b11d28acb7e6fdb98603111ca4a74139ae7e2a618f3",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/quic-go/@v",
+        "dest-filename": "v0.62.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/webtransport-go/@v/v0.13.0.info",
+        "sha256": "4a01c9dc9facaa1d733f5ee831072e9f54ad12bd53bb50beea63af2b1ce509c0",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/webtransport-go/@v",
+        "dest-filename": "v0.13.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/webtransport-go/@v/v0.13.0.mod",
+        "sha256": "b317a66e60022f0393a39f01ac5255d8fb31d07e353bc14c78d6c2bd5e253e78",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/webtransport-go/@v",
+        "dest-filename": "v0.13.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/quic-go/webtransport-go/@v/v0.13.0.zip",
+        "sha256": "b5cc5328bd033b44e03a7823affef0a00ed227875947421a4e4903a89a44a7c4",
+        "dest": "go/pkg/mod/cache/download/github.com/quic-go/webtransport-go/@v",
+        "dest-filename": "v0.13.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/sandertv/go-raknet/@v/v1.15.2-0.20260705184311-0d1fd09e2cf6.mod",
+        "sha256": "2bcfccc18545625062be3d3ad69dcc03c155394cf41a6679f15330216393205f",
+        "dest": "go/pkg/mod/cache/download/github.com/sandertv/go-raknet/@v",
+        "dest-filename": "v1.15.2-0.20260705184311-0d1fd09e2cf6.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/sandertv/gophertunnel/@v/v1.58.0.mod",
+        "sha256": "9db2abd22f600f1ee523be88d959d1e98882bd517e4076c2637577efeb243271",
+        "dest": "go/pkg/mod/cache/download/github.com/sandertv/gophertunnel/@v",
+        "dest-filename": "v1.58.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/sandertv/gophertunnel/@v/v1.62.0.mod",
+        "sha256": "4295ad77bd246c7d772b9651e17262e109a431c7b34499005d923b0883247a0e",
+        "dest": "go/pkg/mod/cache/download/github.com/sandertv/gophertunnel/@v",
+        "dest-filename": "v1.62.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/santhosh-tekuri/jsonschema/v6/@v/v6.0.2.info",
+        "sha256": "4c7922eccea1de5e9fbd593b2f03636d664bdbecc88ccc199d7f63f89040b6d0",
+        "dest": "go/pkg/mod/cache/download/github.com/santhosh-tekuri/jsonschema/v6/@v",
+        "dest-filename": "v6.0.2.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/santhosh-tekuri/jsonschema/v6/@v/v6.0.2.mod",
+        "sha256": "48f5e138633d4d85be9f6cd447e2db32aabd00e530a00a45985695af5e0372e5",
+        "dest": "go/pkg/mod/cache/download/github.com/santhosh-tekuri/jsonschema/v6/@v",
+        "dest-filename": "v6.0.2.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/santhosh-tekuri/jsonschema/v6/@v/v6.0.2.zip",
+        "sha256": "fe5eb88614e560d2072d1f95708ac217b6cb047789531ad633114ec277338635",
+        "dest": "go/pkg/mod/cache/download/github.com/santhosh-tekuri/jsonschema/v6/@v",
+        "dest-filename": "v6.0.2.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/sclevine/agouti/@v/v3.0.0+incompatible.info",
+        "sha256": "5f753c6fd02e62e1f996d0df0f8654e20e7a2c22da914d937152f4525784a275",
+        "dest": "go/pkg/mod/cache/download/github.com/sclevine/agouti/@v",
+        "dest-filename": "v3.0.0+incompatible.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/sclevine/agouti/@v/v3.0.0+incompatible.mod",
+        "sha256": "7c43a438a66bf211531a5b0d29c15fdb793169abdd5db923b8e820d8490f2f04",
+        "dest": "go/pkg/mod/cache/download/github.com/sclevine/agouti/@v",
+        "dest-filename": "v3.0.0+incompatible.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/sclevine/agouti/@v/v3.0.0+incompatible.zip",
+        "sha256": "b20c8a6a2c1fda0ae6a9cd6d319e78a7a5afea4bc90810cd46b99246d8219d23",
+        "dest": "go/pkg/mod/cache/download/github.com/sclevine/agouti/@v",
+        "dest-filename": "v3.0.0+incompatible.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/segmentio/fasthash/@v/v1.0.3.info",
+        "sha256": "b11db0c747d14d46a88147233580e307690baf335e8c488bb0cf18e34e9f0327",
+        "dest": "go/pkg/mod/cache/download/github.com/segmentio/fasthash/@v",
+        "dest-filename": "v1.0.3.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/segmentio/fasthash/@v/v1.0.3.mod",
+        "sha256": "7d6e41c7dec0f74408ecc20125dd625ed4f914c6d1f4c110403e28e0641c7bfd",
+        "dest": "go/pkg/mod/cache/download/github.com/segmentio/fasthash/@v",
+        "dest-filename": "v1.0.3.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/segmentio/fasthash/@v/v1.0.3.zip",
+        "sha256": "fe6b87a2841eac3670539d105692d39f67155955202145dc78f3a29c866b8cb6",
+        "dest": "go/pkg/mod/cache/download/github.com/segmentio/fasthash/@v",
+        "dest-filename": "v1.0.3.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/stretchr/testify/@v/v1.10.0.mod",
+        "sha256": "c0a648a037da54a6b02e8a811b1d3917d49dc4e1841cd756f28f0c4f1593933c",
+        "dest": "go/pkg/mod/cache/download/github.com/stretchr/testify/@v",
+        "dest-filename": "v1.10.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/stretchr/testify/@v/v1.11.1.mod",
+        "sha256": "5846af204043f29df285026109bf32db6519c3d7e1d5c3a65fefb174f9d81d33",
+        "dest": "go/pkg/mod/cache/download/github.com/stretchr/testify/@v",
+        "dest-filename": "v1.11.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/stretchr/testify/@v/v1.12.1.info",
+        "sha256": "614b1855bd69ff2e0b32149e4786be96849b9dcbc821d272ad57d61ff4ff044e",
+        "dest": "go/pkg/mod/cache/download/github.com/stretchr/testify/@v",
+        "dest-filename": "v1.12.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/stretchr/testify/@v/v1.12.1.mod",
+        "sha256": "a6aa921ea6dedc1cbb384d3c1b79c58b6e5d6ce26d13b786ec60a99809ae1daa",
+        "dest": "go/pkg/mod/cache/download/github.com/stretchr/testify/@v",
+        "dest-filename": "v1.12.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/stretchr/testify/@v/v1.12.1.zip",
+        "sha256": "6874ed1c4b0b7e9feb27989b16c179b36590020633436ae260cefc5f5565589f",
+        "dest": "go/pkg/mod/cache/download/github.com/stretchr/testify/@v",
+        "dest-filename": "v1.12.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/stretchr/testify/@v/v1.8.2.mod",
+        "sha256": "af1a5dcb331ace7a3f9fc1b5d7eee9c0bc82b4a2a182fe4cec2add217e2853d6",
+        "dest": "go/pkg/mod/cache/download/github.com/stretchr/testify/@v",
+        "dest-filename": "v1.8.2.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/stretchr/testify/@v/v1.9.0.mod",
+        "sha256": "c0a648a037da54a6b02e8a811b1d3917d49dc4e1841cd756f28f0c4f1593933c",
+        "dest": "go/pkg/mod/cache/download/github.com/stretchr/testify/@v",
+        "dest-filename": "v1.9.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/wlynxg/anet/@v/v0.0.5.info",
+        "sha256": "670cd6cad83459626eb29e17b937f6822446669ed48dc7c93b8cddd680b2556d",
+        "dest": "go/pkg/mod/cache/download/github.com/wlynxg/anet/@v",
+        "dest-filename": "v0.0.5.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/wlynxg/anet/@v/v0.0.5.mod",
+        "sha256": "369638e1ee3561f2601ea5552b1df7267cfe3bc68d41955f0d8176eac045ce8b",
+        "dest": "go/pkg/mod/cache/download/github.com/wlynxg/anet/@v",
+        "dest-filename": "v0.0.5.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/github.com/wlynxg/anet/@v/v0.0.5.zip",
+        "sha256": "5d6e471ccaa553e0cac56e17f8e44499f99ca1a1e37d80d5fdb3c64d4d50d02a",
+        "dest": "go/pkg/mod/cache/download/github.com/wlynxg/anet/@v",
+        "dest-filename": "v0.0.5.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/go.uber.org/mock/@v/v0.5.2.info",
+        "sha256": "548d7aa40c4a8cf1f187ddc4764188b168cce9a4c9718a549605f3a106ce486f",
+        "dest": "go/pkg/mod/cache/download/go.uber.org/mock/@v",
+        "dest-filename": "v0.5.2.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/go.uber.org/mock/@v/v0.5.2.mod",
+        "sha256": "7170d239e6b383d029ceac8ce2c05f32eebce717006ad1aadc161cfb8f828d6f",
+        "dest": "go/pkg/mod/cache/download/go.uber.org/mock/@v",
+        "dest-filename": "v0.5.2.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/go.uber.org/mock/@v/v0.5.2.zip",
+        "sha256": "eb2f59d1ebba968e1c8c8835b326d8ae0e672ee921fe14eb38c85ecb16bd2d32",
+        "dest": "go/pkg/mod/cache/download/go.uber.org/mock/@v",
+        "dest-filename": "v0.5.2.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/go.yaml.in/yaml/v3/@v/v3.0.5.info",
+        "sha256": "cf5dd2de55f182478184ab6923cc1ad6d06e636e6e0341fe519ea3514e68caf5",
+        "dest": "go/pkg/mod/cache/download/go.yaml.in/yaml/v3/@v",
+        "dest-filename": "v3.0.5.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/go.yaml.in/yaml/v3/@v/v3.0.5.mod",
+        "sha256": "4bf9de8891d4d71507d92568022f8241fb828d8d0a6c9204c130bf030f3e3b2f",
+        "dest": "go/pkg/mod/cache/download/go.yaml.in/yaml/v3/@v",
+        "dest-filename": "v3.0.5.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/go.yaml.in/yaml/v3/@v/v3.0.5.zip",
+        "sha256": "f2d70caa35f66283aec58b889af8c5f07c374c5934be27a738c1215263e19205",
+        "dest": "go/pkg/mod/cache/download/go.yaml.in/yaml/v3/@v",
+        "dest-filename": "v3.0.5.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/crypto/@v/v0.26.0.mod",
+        "sha256": "5dfc662e7a84a6c435914c07fca5585ad98d3c60ceb7d088ad39ce2fb2cf4f83",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/crypto/@v",
+        "dest-filename": "v0.26.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/crypto/@v/v0.48.0.mod",
+        "sha256": "c591925f226a3dd387d4b6023287760fbafdbd9175bed7c5c28ca498f7c2fce7",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/crypto/@v",
+        "dest-filename": "v0.48.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/crypto/@v/v0.53.0.info",
+        "sha256": "f800e9a006ecf1f2eb51b9aad0e6a01b6227997639cf75d90e3fb53fcbe6c5a5",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/crypto/@v",
+        "dest-filename": "v0.53.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/crypto/@v/v0.53.0.mod",
+        "sha256": "e6419f476512a8f5d90ccb9fc71e22df4849eff2316e0f938dc82cf4f11bbe5f",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/crypto/@v",
+        "dest-filename": "v0.53.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/crypto/@v/v0.53.0.zip",
+        "sha256": "90ef99675e16b3e5105a80d93007faaf5de989c21fa5a47339b5062e72320c9e",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/crypto/@v",
+        "dest-filename": "v0.53.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/crypto/@v/v0.54.0.info",
+        "sha256": "a2a08976bc05ffe33a35c0bf13d9557bdc954dda54f7404fdaa8bdcc8b125e84",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/crypto/@v",
+        "dest-filename": "v0.54.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/crypto/@v/v0.54.0.mod",
+        "sha256": "d852b93b93f9cd911708ffd45409439956d4e9c8497c5b87f348fc83d0adc577",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/crypto/@v",
+        "dest-filename": "v0.54.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/crypto/@v/v0.54.0.zip",
+        "sha256": "ecf4030c1c6b55b897826b95f01d7416cf2785b4675b0f9ac218ddf754a03abb",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/crypto/@v",
+        "dest-filename": "v0.54.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/exp/@v/v0.0.0-20250103183323-7d7fa50e5329.mod",
+        "sha256": "22c6a8fc19a818378adeed89e438d92d60e91962c7086e92dde3c975ad361e6c",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/exp/@v",
+        "dest-filename": "v0.0.0-20250103183323-7d7fa50e5329.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/exp/@v/v0.0.0-20260611194520-c48552f49976.info",
+        "sha256": "9f656f5887a155045310073a8ba7a477489fbc1a6a93ef5dc2cc489493cfd8f7",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/exp/@v",
+        "dest-filename": "v0.0.0-20260611194520-c48552f49976.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/exp/@v/v0.0.0-20260611194520-c48552f49976.mod",
+        "sha256": "1df656c9be1b5687d224c31792881048ca38296155642293bd9ec91c0cf5ea9b",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/exp/@v",
+        "dest-filename": "v0.0.0-20260611194520-c48552f49976.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/exp/@v/v0.0.0-20260611194520-c48552f49976.zip",
+        "sha256": "2ff12996d2155beccfaa1c59235ca4b9a1c9551c07345da1988a3b26782dd308",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/exp/@v",
+        "dest-filename": "v0.0.0-20260611194520-c48552f49976.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/exp/typeparams/@v/v0.0.0-20231108232855-2478ac86f678.info",
+        "sha256": "abc9e44bd1f6b7022f48f668cb9db047571bb753126fa800d6bf0c321ff1e203",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/exp/typeparams/@v",
+        "dest-filename": "v0.0.0-20231108232855-2478ac86f678.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/exp/typeparams/@v/v0.0.0-20231108232855-2478ac86f678.mod",
+        "sha256": "49064f2b6b5944e091bc67f34eeb5719b0052df7333d88871735d3e8ac0715aa",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/exp/typeparams/@v",
+        "dest-filename": "v0.0.0-20231108232855-2478ac86f678.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/exp/typeparams/@v/v0.0.0-20231108232855-2478ac86f678.zip",
+        "sha256": "22c0e082f62b39c8ddaec18a9f2888158199e597adc8780e918e8976cd9fbbb0",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/exp/typeparams/@v",
+        "dest-filename": "v0.0.0-20231108232855-2478ac86f678.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/image/@v/v0.21.0.info",
+        "sha256": "7e7abb4fb4b6c6a8e17562b5422e4cf134394c6a508c3f5bc587fffe4dd02603",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/image/@v",
+        "dest-filename": "v0.21.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/image/@v/v0.21.0.mod",
+        "sha256": "a93695836ebd2d5303520ed1d0252d120c230f937932d6fb2666fff151d93c9c",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/image/@v",
+        "dest-filename": "v0.21.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/image/@v/v0.21.0.zip",
+        "sha256": "7ca937a1f9501b5d0b46631a6813f833292e33a9c5070f03630f18ab8d65bba3",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/image/@v",
+        "dest-filename": "v0.21.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/mod/@v/v0.31.0.mod",
+        "sha256": "1ec2b9183f0adf8dc4d6d5dffb6eaece5457f5fb88fa3e8843941389e72f2977",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/mod/@v",
+        "dest-filename": "v0.31.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/mod/@v/v0.32.0.mod",
+        "sha256": "841f7e156252cbae1db18f2b7f48b522af1cf0d3cf8fa3710390dd156657c885",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/mod/@v",
+        "dest-filename": "v0.32.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/mod/@v/v0.36.0.mod",
+        "sha256": "5972ad5e59d297086ecad5b2d2c802798682bbd5ff4d5af2702261d1aec79665",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/mod/@v",
+        "dest-filename": "v0.36.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/mod/@v/v0.37.0.info",
+        "sha256": "4e3c092050646db6a64f7c42c2538fc0323ec7d7e4ffb04bcc1f76141d640e6a",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/mod/@v",
+        "dest-filename": "v0.37.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/mod/@v/v0.37.0.mod",
+        "sha256": "538472fdf094dd5e49dc40e70468fa931a93c241eba07fb946a98747c94ab4df",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/mod/@v",
+        "dest-filename": "v0.37.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/mod/@v/v0.37.0.zip",
+        "sha256": "91e8e4e9b74a8706dae808b66538d4ab22befd00c11f34134eb97ff572d52e85",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/mod/@v",
+        "dest-filename": "v0.37.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.0.0-20180906233101-161cd47e91fd.mod",
+        "sha256": "3e08f487ddda1851b891df5b1d04bb1a01b84d6d702aa82d9efbccde0aa7df81",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.0.0-20180906233101-161cd47e91fd.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.28.0.mod",
+        "sha256": "b9e1dcc6b83ad1d97b4348f91e30413c7ade20aa5ad1f77e4bfddf4ac46259e3",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.28.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.34.0.mod",
+        "sha256": "857ae8cc11c0bbdd6ee7369f205402aa354a7493801fb3e837285c403d8b1019",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.34.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.35.0.mod",
+        "sha256": "3d0e854f04bd4c18e2a2cb499b17e11d919b09d90be105b92283608e1f1aeb79",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.35.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.49.0.mod",
+        "sha256": "f63b9720c6d87ef05662d4641e78531af98e6a13be08611bfba7128e9b2de970",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.49.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.50.0.mod",
+        "sha256": "b330deccc42ce9bc255f1f8ed217fc6e7db3e0418a882797d48f9ff934fc269e",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.50.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.55.0.mod",
+        "sha256": "ba56dceb42bf7ab4eeea7603daa4162ae9205d48208b2abbc65b0cdbdf9e627b",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.55.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.56.0.info",
+        "sha256": "22e00a93e3744cf8259747dd1779ea5a6e39753ba8606d8a662f69c713f08e73",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.56.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.56.0.mod",
+        "sha256": "1072915233a6617a603a36996892ca8aafcc7d8b8dc0f43e7146d83c7ea49c43",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.56.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/net/@v/v0.56.0.zip",
+        "sha256": "bbc975b3ec9cd86892cfc515badc125657e135c00162d0da5de33f6d07930464",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/net/@v",
+        "dest-filename": "v0.56.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/oauth2/@v/v0.28.0.mod",
+        "sha256": "892a9c068542f7af1f069126ab28c38cd5fb8faa6daf7733ce2c9cd30840645e",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/oauth2/@v",
+        "dest-filename": "v0.28.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/oauth2/@v/v0.36.0.info",
+        "sha256": "61d5b2b9cf0de3c5bad7717c19d06ffd492a333f830e7b1035cbf330c90b0775",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/oauth2/@v",
+        "dest-filename": "v0.36.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/oauth2/@v/v0.36.0.mod",
+        "sha256": "90ff0f4a036bc1c24e6c006fe18d97d6d11683431f8f197b7ad48a341da72682",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/oauth2/@v",
+        "dest-filename": "v0.36.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/oauth2/@v/v0.36.0.zip",
+        "sha256": "15bf65ff103e5dafc809d78cd037a1d1e88ccb8451824e851156002a13304504",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/oauth2/@v",
+        "dest-filename": "v0.36.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sync/@v/v0.0.0-20180314180146-1d60e4601c6f.mod",
+        "sha256": "421f6139686d5891f3dc5a563d0995780d3279f65cad4d225cea52686794161c",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sync/@v",
+        "dest-filename": "v0.0.0-20180314180146-1d60e4601c6f.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sync/@v/v0.19.0.mod",
+        "sha256": "d333c54b74af8a0b8ec748d37c5972d27b9d088b9e45c8bf5c3ab520d2113090",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sync/@v",
+        "dest-filename": "v0.19.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sync/@v/v0.21.0.info",
+        "sha256": "dd274d370d6a4ab1bcdb9cd8fd2fc919d96abda8c7806a85043d56da3cf1d066",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sync/@v",
+        "dest-filename": "v0.21.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sync/@v/v0.21.0.mod",
+        "sha256": "a3e29e76060bd561060454b1fa2bdcd66674f60c9ca93833b8106355e34c603c",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sync/@v",
+        "dest-filename": "v0.21.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sync/@v/v0.21.0.zip",
+        "sha256": "ee65459023de7f24836f6e2123144b5329bd0a4d05a87c3c448509378e2e6be7",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sync/@v",
+        "dest-filename": "v0.21.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sync/@v/v0.22.0.info",
+        "sha256": "14c94a5f031afb49c81ce00b342ca7f6befc7a2ee6c1114507ca518c92fdbf1d",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sync/@v",
+        "dest-filename": "v0.22.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sync/@v/v0.22.0.mod",
+        "sha256": "a3e29e76060bd561060454b1fa2bdcd66674f60c9ca93833b8106355e34c603c",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sync/@v",
+        "dest-filename": "v0.22.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sync/@v/v0.22.0.zip",
+        "sha256": "4bc67d258ce7867cfc1a43765c43d98b4c49b90c46dd0b86f896a5a4909fade0",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sync/@v",
+        "dest-filename": "v0.22.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sys/@v/v0.0.0-20180909124046-d0be0721c37e.mod",
+        "sha256": "8969115e4a39108848324e79a1bd8a8445230e6e3aaccbe9f8057fb50fffc8c1",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sys/@v",
+        "dest-filename": "v0.0.0-20180909124046-d0be0721c37e.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sys/@v/v0.41.0.mod",
+        "sha256": "f411814d83a96e86781b1dee41c125b9504da5422dba37cc1d63b016ae39cfe2",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sys/@v",
+        "dest-filename": "v0.41.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sys/@v/v0.46.0.info",
+        "sha256": "0cd39036d64b29526b6b6db5d1817ad7005b3924c5b2848bcc96201267eb4312",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sys/@v",
+        "dest-filename": "v0.46.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sys/@v/v0.46.0.mod",
+        "sha256": "57f4393ea18d5446a12363b35c23a616d843fa1669c7121a70a2bc3a9677d665",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sys/@v",
+        "dest-filename": "v0.46.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sys/@v/v0.46.0.zip",
+        "sha256": "36dc83b6bc5884d260cdbd9d09e597b1eed64d15dfdc374ca6e31aef99d533d7",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sys/@v",
+        "dest-filename": "v0.46.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sys/@v/v0.47.0.info",
+        "sha256": "2f567627966f180616deee8874e9547fe34b2271f17ce14901979890510fc959",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sys/@v",
+        "dest-filename": "v0.47.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sys/@v/v0.47.0.mod",
+        "sha256": "57f4393ea18d5446a12363b35c23a616d843fa1669c7121a70a2bc3a9677d665",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sys/@v",
+        "dest-filename": "v0.47.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/sys/@v/v0.47.0.zip",
+        "sha256": "cdac013ddced0262926ec29ffcda645da39670e61c7e5b761e572b6b1809bb1b",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/sys/@v",
+        "dest-filename": "v0.47.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/term/@v/v0.44.0.info",
+        "sha256": "6c55a243f222b8f834f732ca0d25dcbb0f0c38916647064f0a75dadf055656de",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/term/@v",
+        "dest-filename": "v0.44.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/term/@v/v0.44.0.mod",
+        "sha256": "c1ed42075fbd1940a6ec34cbb1af6fff240b5c76e7a75599023fa138a112e948",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/term/@v",
+        "dest-filename": "v0.44.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/term/@v/v0.44.0.zip",
+        "sha256": "e420c6640012a697d806c2e865df26993c82a9ab1b16d286787cb77fc10062f7",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/term/@v",
+        "dest-filename": "v0.44.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/term/@v/v0.45.0.info",
+        "sha256": "ae4c0e1046e4e4df7d773ae0cdcbebc308ac88659ea765ddcbe3af226cee13d3",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/term/@v",
+        "dest-filename": "v0.45.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/term/@v/v0.45.0.mod",
+        "sha256": "62c3f9d1a5ae12264ab48e2c8acc08c9f201bda9619de171544eb5714b74aec5",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/term/@v",
+        "dest-filename": "v0.45.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/term/@v/v0.45.0.zip",
+        "sha256": "b3a3af689728b43012ae1b21482571a35c033c545e98e021606bd4fcf1f79108",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/term/@v",
+        "dest-filename": "v0.45.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.14.0.mod",
+        "sha256": "971579f17e9abc5926ab76214f533bd517cf4925c885243ac4755a1a0a7c69ef",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.14.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.3.0.mod",
+        "sha256": "36879d586fd8001e84da8787190a11e4f78749e2a81dfe8b9b6931899fff31cf",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.3.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.34.0.mod",
+        "sha256": "43b8c43b254e9c1895aca686f562dc9029ec3051f5fc568c56eff7c282084dcf",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.34.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.35.0.mod",
+        "sha256": "4a1729e4914a3951570e4e44c47fcb6ca0b9b6e07c11aa0da48706dc295e3702",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.35.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.38.0.info",
+        "sha256": "26133bfbd5bc2257fcfc635b2f20e93c6e6afffeeade8c2e82f3e678709a69ff",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.38.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.38.0.mod",
+        "sha256": "5ea8b1f12f8a2eb1617ddedb3051a44f772222f977470d76231cfa95de7b6b01",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.38.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.38.0.zip",
+        "sha256": "be98266212ac63cdc78631ae0ff8f783e0f5e47d9b6094c11ffebe43fd0424b3",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.38.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.40.0.info",
+        "sha256": "fc11b65b2ba549dd6031a1ae6b39c2f22885800167138fdb8b83c6ae65e2c384",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.40.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.40.0.mod",
+        "sha256": "e69fb09b14637cab6245a1253c22d80121b79d9fe3ddd19b558629e15baadaf3",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.40.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/text/@v/v0.40.0.zip",
+        "sha256": "07757384728d0f52dd85c1f3f163405e6396b2b0fb7eb7d6b610f2a711d69ee3",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/text/@v",
+        "dest-filename": "v0.40.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/time/@v/v0.10.0.mod",
+        "sha256": "226a6cc982bae02ff1e168de8c3e45a2f3f986c69edbc1f416c58b6081ef262e",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/time/@v",
+        "dest-filename": "v0.10.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/time/@v/v0.14.0.info",
+        "sha256": "1adaebabf79af7c7bef393ccc4e3b80693658cbcf22867de8057c994fda35ae0",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/time/@v",
+        "dest-filename": "v0.14.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/time/@v/v0.14.0.mod",
+        "sha256": "aa3637dd0ff835535d1f78e9430f121038d363b4a36967c26fa3502302d90d11",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/time/@v",
+        "dest-filename": "v0.14.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/time/@v/v0.14.0.zip",
+        "sha256": "0e2d2e47d107859130c7088346966d99a14ec0f7a42290c4acc0e2cc568e7a81",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/time/@v",
+        "dest-filename": "v0.14.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/@v/v0.40.1-0.20260108161641-ca281cf95054.mod",
+        "sha256": "c75122d17c58778ae79480a393bbe3281820a0fb9cca327fee767108f43e2de2",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/@v",
+        "dest-filename": "v0.40.1-0.20260108161641-ca281cf95054.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/@v/v0.45.0.mod",
+        "sha256": "0bad1ee9a80135d3f96193318ee5d37be549d429eb6cafd0a6feeee15622263f",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/@v",
+        "dest-filename": "v0.45.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/@v/v0.46.0.info",
+        "sha256": "f3d06129723acb42a7b674ff815355eb7d509506d45cbd07b709cc47dde23e80",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/@v",
+        "dest-filename": "v0.46.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/@v/v0.46.0.mod",
+        "sha256": "8396977c4bc74808909d584ac2abc759cdebafc818d52f4c975eb671dd93142f",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/@v",
+        "dest-filename": "v0.46.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/@v/v0.46.0.zip",
+        "sha256": "72e4362b25423953b41cfa39c13236e71780a164f7f32ffde4438f15b45b654a",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/@v",
+        "dest-filename": "v0.46.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/@v/v0.47.0.info",
+        "sha256": "bf7788aab8383cb677c6a98fea7c4f9606257a2b4a2f9a2b4a6fe93c1e8d8c3a",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/@v",
+        "dest-filename": "v0.47.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/@v/v0.47.0.mod",
+        "sha256": "eb46e44850fb4dca48f7b680cac5177682cb0e302b307d4d3dbd7ed9df05fc0f",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/@v",
+        "dest-filename": "v0.47.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/@v/v0.47.0.zip",
+        "sha256": "143d132b519da1454db967febb65241796805d7c9d4752034341c1376fd3d7f1",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/@v",
+        "dest-filename": "v0.47.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/go/expect/@v/v0.1.1-deprecated.info",
+        "sha256": "f17b12bec957629a6da655b8c242d605831ac21f5d503265d2a34040a62e3599",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/go/expect/@v",
+        "dest-filename": "v0.1.1-deprecated.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/go/expect/@v/v0.1.1-deprecated.mod",
+        "sha256": "0995d960f35334cd5c1caa9748e280ce531f2e06fe092466c77817ceb7a32f08",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/go/expect/@v",
+        "dest-filename": "v0.1.1-deprecated.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/go/expect/@v/v0.1.1-deprecated.zip",
+        "sha256": "b2389159ddd768c6bd83a0cc92bbf9be01c32ca973c366fc224b79762d90dd79",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/go/expect/@v",
+        "dest-filename": "v0.1.1-deprecated.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/go/packages/packagestest/@v/v0.1.1-deprecated.info",
+        "sha256": "9490716febde2ff69de31b8028d33c4bf33f1d7c687bbf788c98c25ce3d4d79e",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/go/packages/packagestest/@v",
+        "dest-filename": "v0.1.1-deprecated.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/go/packages/packagestest/@v/v0.1.1-deprecated.mod",
+        "sha256": "f61084d3a3625bc96725aaf19c6a0341ea42715254bc1e617943d2ff836383fd",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/go/packages/packagestest/@v",
+        "dest-filename": "v0.1.1-deprecated.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/golang.org/x/tools/go/packages/packagestest/@v/v0.1.1-deprecated.zip",
+        "sha256": "15792a78ef9338b2c08d5010b24211f85c4d39e8c31db316f1ca4a891605ed01",
+        "dest": "go/pkg/mod/cache/download/golang.org/x/tools/go/packages/packagestest/@v",
+        "dest-filename": "v0.1.1-deprecated.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/check.v1/@v/v0.0.0-20161208181325-20d25e280405.info",
+        "sha256": "b4a754245203665d2bdcde7344c31c244d5ed74ffbe523997b0b31b19522723b",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/check.v1/@v",
+        "dest-filename": "v0.0.0-20161208181325-20d25e280405.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/check.v1/@v/v0.0.0-20161208181325-20d25e280405.mod",
+        "sha256": "5c306e0d633cd66a11b40e2e5fbbc6da42110db7d72ea3c1524ceb45ee40c33f",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/check.v1/@v",
+        "dest-filename": "v0.0.0-20161208181325-20d25e280405.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/check.v1/@v/v0.0.0-20161208181325-20d25e280405.zip",
+        "sha256": "4e1817f964ca34e545b81afda0325a5e89cf58de2e413d8207c0afddd0fdc15c",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/check.v1/@v",
+        "dest-filename": "v0.0.0-20161208181325-20d25e280405.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/fsnotify.v1/@v/v1.4.7.info",
+        "sha256": "abd517a5ac67874538bc738307de6268f6da5f9dfa8d0450a175cca1f2154b21",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/fsnotify.v1/@v",
+        "dest-filename": "v1.4.7.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/fsnotify.v1/@v/v1.4.7.mod",
+        "sha256": "25e8db5f993b882b3c6ef286c481937ea5d527df3a92051fd9e4b29b716dbfbc",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/fsnotify.v1/@v",
+        "dest-filename": "v1.4.7.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/fsnotify.v1/@v/v1.4.7.zip",
+        "sha256": "ce003d540f42b3c0a3dec385deb387b255b536b25ea4438baa65b89458b28f75",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/fsnotify.v1/@v",
+        "dest-filename": "v1.4.7.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/tomb.v1/@v/v1.0.0-20141024135613-dd632973f1e7.info",
+        "sha256": "0b1cf4369225432986485e2544c1cd866634e4ca8f3a6c443678123005f07899",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/tomb.v1/@v",
+        "dest-filename": "v1.0.0-20141024135613-dd632973f1e7.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/tomb.v1/@v/v1.0.0-20141024135613-dd632973f1e7.mod",
+        "sha256": "3663081d0d18fd2eccbdbe45e90193d3194d587441f7afafb33674d68702e0aa",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/tomb.v1/@v",
+        "dest-filename": "v1.0.0-20141024135613-dd632973f1e7.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/tomb.v1/@v/v1.0.0-20141024135613-dd632973f1e7.zip",
+        "sha256": "34898dc0e38ba7a792ab74a3e0fa113116313fd9142ffb444b011fd392762186",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/tomb.v1/@v",
+        "dest-filename": "v1.0.0-20141024135613-dd632973f1e7.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/yaml.v2/@v/v2.2.1.mod",
+        "sha256": "88d979d2f093d2397f756bc86efa2ca03f73a60d668ceb391b3510029f3f7cfc",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v",
+        "dest-filename": "v2.2.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/yaml.v2/@v/v2.4.0.info",
+        "sha256": "d45d4b251ff7c94c64ba44afca5bac45e0ae5c1b317b50ec6bbc8671cd2788a5",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v",
+        "dest-filename": "v2.4.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/yaml.v2/@v/v2.4.0.mod",
+        "sha256": "c3b11ba9a0775ff9bc6f11dbb58a1e48cc1e68bac378a8cdc620becc661d4c33",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v",
+        "dest-filename": "v2.4.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/yaml.v2/@v/v2.4.0.zip",
+        "sha256": "ede49e27c4cca6cdd2ec719aed8ea4d363710cceb3d411e7a786fbdec0d391fd",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v",
+        "dest-filename": "v2.4.0.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/yaml.v3/@v/v3.0.1.info",
+        "sha256": "0cdb0c9ac8c3b25dbd420a86ab27debfa469a8b48ee10560224704c2852ac6c0",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/yaml.v3/@v",
+        "dest-filename": "v3.0.1.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/yaml.v3/@v/v3.0.1.mod",
+        "sha256": "21579860a20306fcf43b1bd234d1fba319499c77611b71c05f9bf3ba90dab939",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/yaml.v3/@v",
+        "dest-filename": "v3.0.1.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/gopkg.in/yaml.v3/@v/v3.0.1.zip",
+        "sha256": "aab8fbc4e6300ea08e6afe1caea18a21c90c79f489f52c53e2f20431f1a9a015",
+        "dest": "go/pkg/mod/cache/download/gopkg.in/yaml.v3/@v",
+        "dest-filename": "v3.0.1.zip"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/honnef.co/go/tools/@v/v0.7.0.info",
+        "sha256": "b91b58303399029aa1015d9d87b195b4ca1d830b497cfe1241ae133b2a6c574e",
+        "dest": "go/pkg/mod/cache/download/honnef.co/go/tools/@v",
+        "dest-filename": "v0.7.0.info"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/honnef.co/go/tools/@v/v0.7.0.mod",
+        "sha256": "fa1d2244391cd5c94e71f42bdf86333107c1582b53c7dc9aa3995f9d824810ed",
+        "dest": "go/pkg/mod/cache/download/honnef.co/go/tools/@v",
+        "dest-filename": "v0.7.0.mod"
+    },
+    {
+        "type": "file",
+        "url": "https://proxy.golang.org/honnef.co/go/tools/@v/v0.7.0.zip",
+        "sha256": "dcecbd9ba78cbd2f9012b9cc4cafd5992eff37ea0addba1a57151864c4ac415a",
+        "dest": "go/pkg/mod/cache/download/honnef.co/go/tools/@v",
+        "dest-filename": "v0.7.0.zip"
+    }
+]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>app.cinnabar.client</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>PolyForm-Noncommercial-1.0.0</project_license>
+  <name>Cinnabar</name>
+  <summary>Connect to Minecraft Bedrock servers</summary>
+  <developer id="app.cinnabar">
+    <name>Cinnabar</name>
+  </developer>
+  <description>
+    <p>Cinnabar is a desktop client for Minecraft Bedrock servers, Realms and friends' worlds.</p>
+    <p>Sign in with your Microsoft account, manage servers and play local worlds. First-run setup downloads the resource pack needed to prepare game assets.</p>
+    <p>Cinnabar is an independent project and is not affiliated with Mojang or Microsoft.</p>
+  </description>
+  <launchable type="desktop-id">app.cinnabar.client.desktop</launchable>
+  <url type="homepage">https://cinnabar.gg/</url>
+  <url type="bugtracker">https://github.com/cinnabar-mc/cinnabar/issues</url>
+  <url type="vcs-browser">https://github.com/cinnabar-mc/cinnabar</url>
+  <provides>
+    <binary>cinnabar</binary>
+  </provides>
+  <categories>
+    <category>Game</category>
+  </categories>
+  <releases>
+    <release version="0.1.25" date="2026-10-22">
+      <url>https://github.com/cinnabar-mc/cinnabar/releases/tag/v0.1.25</url>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-fantasy">moderate</content_attribute>
+    <content_attribute id="social-chat">intense</content_attribute>
+  </content_rating>
+</component>
